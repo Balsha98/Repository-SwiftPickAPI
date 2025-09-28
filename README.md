@@ -1,2 +1,3 @@
 # Repository-SwiftPickAPI
-SwiftPickAPI - Clothing Store Collection API
+
+The README file will soon be updated.
