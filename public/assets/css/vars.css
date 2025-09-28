@@ -1,0 +1,8 @@
+:root {
+    --tint: #fff;
+    --shade: #000;
+    --shadow-sm-shade: rgba(0, 0, 0, 0.1);
+    --shadow-md-shade: rgba(0, 0, 0, 0.3);
+    --shadow-lg-shade: rgba(0, 0, 0, 0.5);
+    --shadow-xl-shade: rgba(0, 0, 0, 0.7);
+}
