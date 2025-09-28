@@ -1,16 +1,27 @@
 <?php
 
-spl_autoload_register(function ($class) {
-    $prefixes = ['Classes\\'];
+$directories = require_once __DIR__ . '/helpers/scripts/directories.php';
 
-    foreach ($prefixes as $prefix) {
-        if (!str_contains($class, $prefix)) {
-            return;
+spl_autoload_register(function ($class) {
+    global $directories;
+    $classDirectory = '';
+
+    // Check each folder;
+    foreach ($directories as $directory) {
+        if (str_contains($class, $directory)) {
+            $classDirectory = str_replace('\\', '/', strtolower($directory));
         }
     }
 
-    $className = explode('\\', $class)[2];
-    $classPath = __DIR__ . '\\classes\\' . $className . '.php';
+    // Guard clause.
+    if (!$classDirectory) {
+        return;
+    }
+
+    // Filter out class name.
+    $namespaceParts = explode('\\', $class);
+    $className = $namespaceParts[count($namespaceParts) - 1];
+    $classPath = __DIR__ . '/' . $classDirectory . '/' . $className . '.php';
 
     if (file_exists($classPath)) {
         require_once $classPath;
