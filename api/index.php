@@ -1,6 +1,6 @@
 <?php
 
-require_once __DIR__ . '/../../source/autoload.php';
+require_once __DIR__ . '/../source/autoload.php';
 
 // Imported classes.
 use Source\Classes\{Router, Routes};
