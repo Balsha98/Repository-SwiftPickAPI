@@ -17,13 +17,12 @@ try {
     $allowedRoutes = Routes::$routes[$method];
     $uriParts = explode('/', $_SERVER['REQUEST_URI']);
     $partsLength = count($uriParts);
-    $search = $uriParts[2];
 
-    if ($partsLength === 3) {
-    } else if ($partsLength === 4) {
+    // Check if content file exists.
+    $filePath = __DIR__ . '/assets/content/' . $uriParts[2] . '.json';
+    if (!file_exists($filePath)) {
+        throw new Exception('Unidentifiable resource given...');
     }
-
-    print_r('Searching for: ' . $search);
 } catch (Exception $e) {
     echo $e->getMessage();
 }
