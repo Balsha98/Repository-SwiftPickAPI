@@ -4,9 +4,9 @@ namespace Source\Helpers\Classes;
 
 class Encoder
 {
-    public static function encodeToJSON(array $data)
+    public static function encodeToJSON(string $type, mixed $data)
     {
-        return json_encode($data);
+        return json_encode([$type => $data]);
     }
 
     public static function decodeFromJSON(string $json, bool $isAssoc = true)
