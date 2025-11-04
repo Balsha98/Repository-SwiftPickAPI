@@ -1,6 +1,6 @@
 <?php
 
 return [
-    'Classes\\',
+    'Handlers\\Routing\\',
     'Helpers\\Classes\\'
 ];

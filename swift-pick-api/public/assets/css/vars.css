@@ -1,8 +1,9 @@
 :root {
-    --tint: #fff;
-    --shade: #000;
-    --shadow-sm-shade: rgba(0, 0, 0, 0.1);
-    --shadow-md-shade: rgba(0, 0, 0, 0.3);
-    --shadow-lg-shade: rgba(0, 0, 0, 0.5);
-    --shadow-xl-shade: rgba(0, 0, 0, 0.7);
+    --white: #fff;
+    --black: #000;
+
+    --opaque-shadow-sm: rgba(0, 0, 0, 0.1);
+    --opaque-shadow-md: rgba(0, 0, 0, 0.3);
+    --opaque-shadow-lg: rgba(0, 0, 0, 0.5);
+    --opaque-shadow-xl: rgba(0, 0, 0, 0.7);
 }

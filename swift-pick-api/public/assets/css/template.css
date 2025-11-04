@@ -4,7 +4,7 @@
     align-items: center;
     justify-content: space-between;
     padding: 1.6rem 3.2rem;
-    box-shadow: 0 0.4rem 1.6rem var(--shadow-sm-shade);
+    box-shadow: 0 0.4rem 1.6rem var(--opaque-shadow-sm);
 }
 
 /* LOGO CONTAINER */

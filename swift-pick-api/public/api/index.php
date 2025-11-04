@@ -3,7 +3,7 @@
 require_once __DIR__ . '/source/autoload.php';
 
 // Imported classes.
-use Source\Classes\Routes;
+use Source\Handlers\Routing\Routes;
 // use Source\Helpers\Classes\Debugger;
 use Source\Helpers\Classes\Encoder;
 
