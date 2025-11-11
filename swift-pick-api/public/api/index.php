@@ -68,4 +68,4 @@ try {
 }
 
 // Print result.
-echo Encoder::encodeToJSON('success', $resourceData);
+echo Encoder::encodeToJSON('data', $resourceData);
