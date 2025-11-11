@@ -15,21 +15,25 @@ try {
     header('Content-Type: application/json');
 
     // Guard clause.
-    if (is_null(Routes::$routes[$method])) {
+    if (is_null(Routes::fetchRoute($method))) {
         throw new Exception('Request method is not supported!');
     }
 
-    $allowedRoutes = Routes::$routes[$method];
+    $allowedRoutes = Routes::fetchRoute($method);
     $uriParts = explode('/', $_SERVER['REQUEST_URI']);
+
+    // Remove the first item from the array.
+    array_shift($uriParts);
+
     $numUriParts = count($uriParts);
 
     // Guard clause.
-    if ($numUriParts < 3) {
+    if ($numUriParts < 2) {
         throw new Exception('Please specify a resource...');
     }
 
     // Get targeted resource.
-    $resourceName = $uriParts[2];
+    $resourceName = $uriParts[1];
 
     // Check if content file exists.
     $filePath = __DIR__ . "/assets/content/{$resourceName}.json";

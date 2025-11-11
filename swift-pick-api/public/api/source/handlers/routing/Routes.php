@@ -4,7 +4,7 @@ namespace Source\Handlers\Routing;
 
 class Routes
 {
-    public static array $routes = [
+    private static array $routes = [
         'GET' => [
             'categories',
             'products'
@@ -13,4 +13,9 @@ class Routes
         'PUT' => [],
         'DELETE' => []
     ];
+
+    public static function fetchRoute(string $method)
+    {
+        return self::$routes[$method];
+    }
 }
