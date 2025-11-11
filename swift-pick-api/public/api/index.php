@@ -23,8 +23,10 @@ try {
     $uriParts = explode('/', $_SERVER['REQUEST_URI']);
     array_shift($uriParts);
 
+    $lastUriIndex = count($uriParts) - 1;
+
     // Guard clause.
-    if ($uriParts[count($uriParts) - 1] === 'api') {
+    if ($uriParts[$lastUriIndex] === 'api') {
         throw new Exception('Please specify a resource...');
     }
 
@@ -40,8 +42,8 @@ try {
     $resourceData = Encoder::decodeFromJSON(file_get_contents($filePath));
 
     // Check for ID.
-    if ($numUriParts === 4) {
-        $resourceID = $uriParts[3];
+    if (is_numeric($uriParts[$lastUriIndex])) {
+        $resourceID = $uriParts[$lastUriIndex];
 
         $itemIDs = [];
         foreach ($resourceData as $data) {
