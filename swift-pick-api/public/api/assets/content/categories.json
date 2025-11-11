@@ -1,18 +1,105 @@
 [
     {
         "id": 1,
-        "name": "Men"
+        "name": "Men's Wear",
+        "collections": [
+            {
+                "id": 1,
+                "name": "Polo Shirts",
+                "cover": "img:link"
+            },
+            {
+                "id": 2,
+                "name": "Hoodies & Sweatshirts",
+                "cover": "img:link"
+            },
+            {
+                "id": 3,
+                "name": "Gentleman's Wear",
+                "cover": "img:link"
+            },
+            {
+                "id": 4,
+                "name": "Athletic Wear",
+                "cover": "img:link"
+            }
+        ],
+        "cover": "img:link"
     },
     {
         "id": 2,
-        "name": "Women"
+        "name": "Women's Wear",
+        "collections": [
+            {
+                "id": 1,
+                "name": "Short-Sleeve Tees",
+                "cover": "img:link"
+            },
+            {
+                "id": 2,
+                "name": "Hoodies & Sweatshirts",
+                "cover": "img:link"
+            },
+            {
+                "id": 3,
+                "name": "Athletic Wear",
+                "cover": "img:link"
+            },
+            {
+                "id": 4,
+                "name": "VT Hats",
+                "cover": "img:link"
+            }
+        ],
+        "cover": "img:link"
     },
     {
-        "id": 3,
-        "name": "Kids"
+        "id": 5,
+        "name": "Team USA",
+        "collections": [
+            {
+                "id": 1,
+                "name": "Short-Sleeve Tees",
+                "cover": "img:link"
+            },
+            {
+                "id": 2,
+                "name": "Hoodies & Sweatshirts",
+                "cover": "img:link"
+            },
+            {
+                "id": 3,
+                "name": "USA Hats",
+                "cover": "img:link"
+            }
+        ],
+        "cover": "img:link"
     },
     {
         "id": 4,
-        "name": "Clearance"
+        "name": "Accessories",
+        "collections": [
+            {
+                "id": 1,
+                "name": "Wallets",
+                "cover": "img:link"
+            },
+            {
+                "id": 2,
+                "name": "Footwear",
+                "cover": "img:link"
+            },
+            {
+                "id": 3,
+                "name": "Drinkwear",
+                "cover": "img:link"
+            },
+            {
+                "id": 4,
+                "name": "Stickers",
+                "cover": "img:link"
+            }
+        ],
+        "cover": "img:link"
     }
 ]

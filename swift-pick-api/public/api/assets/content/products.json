@@ -1,74 +1,11 @@
 [
     {
         "id": 1,
-        "name": "T-Shirt",
-        "category": "Men",
-        "sizes": ["S", "M", "L", "XL"],
-        "colors": ["white", "black", "red", "green", "blue"],
-        "rewards": 10,
-        "image": ""
-    },
-    {
-        "id": 2,
-        "name": "T-Shirt",
-        "category": "Men",
-        "sizes": ["S", "M", "L", "XL"],
-        "colors": ["white", "black", "red", "green", "blue"],
-        "rewards": 10,
-        "image": ""
-    },
-    {
-        "id": 3,
-        "name": "Polo Shirt",
-        "category": "Men",
-        "sizes": ["S", "M", "L", "XL"],
-        "colors": ["white", "black", "red", "green", "blue"],
-        "rewards": 10,
-        "image": ""
-    },
-    {
-        "id": 4,
-        "name": "Polo Shirt",
-        "category": "Men",
-        "sizes": ["S", "M", "L", "XL"],
-        "colors": ["white", "black", "red", "green", "blue"],
-        "rewards": 10,
-        "image": ""
-    },
-    {
-        "id": 5,
-        "name": "Sweater",
-        "category": "Men",
-        "sizes": ["S", "M", "L", "XL"],
-        "colors": ["white", "black", "red", "green", "blue"],
-        "rewards": 10,
-        "image": ""
-    },
-    {
-        "id": 6,
-        "name": "Sweater",
-        "category": "Men",
-        "sizes": ["S", "M", "L", "XL"],
-        "colors": ["white", "black", "red", "green", "blue"],
-        "rewards": 10,
-        "image": ""
-    },
-    {
-        "id": 7,
-        "name": "Jeans",
-        "category": "Men",
-        "sizes": ["S", "M", "L", "XL"],
-        "colors": ["white", "black", "red", "green", "blue"],
-        "rewards": 10,
-        "image": ""
-    },
-    {
-        "id": 8,
-        "name": "Jeans",
-        "category": "Men",
-        "sizes": ["S", "M", "L", "XL"],
-        "colors": ["white", "black", "red", "green", "blue"],
-        "rewards": 10,
-        "image": ""
+        "name": "",
+        "category": 1,
+        "sizes": [],
+        "colors": [],
+        "rewards": 0,
+        "images": []
     }
 ]
