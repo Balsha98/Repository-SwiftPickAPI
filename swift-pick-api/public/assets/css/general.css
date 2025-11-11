@@ -8,12 +8,17 @@
 
 html {
     font-size: 10px;
+    overflow-x: hidden;
+}
+
+body::-webkit-scrollbar {
+    display: none;
 }
 
 ul {
     list-style-type: none;
 }
 
-a {
+a:link {
     text-decoration: none;
 }
