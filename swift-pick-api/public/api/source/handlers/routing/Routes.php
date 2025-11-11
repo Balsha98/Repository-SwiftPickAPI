@@ -8,10 +8,7 @@ class Routes
         'GET' => [
             'categories',
             'products'
-        ],
-        'POST' => [],
-        'PUT' => [],
-        'DELETE' => []
+        ]
     ];
 
     public static function fetchRoute(string $method)
