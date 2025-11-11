@@ -21,38 +21,34 @@ try {
 
     $allowedRoutes = Routes::fetchRoute($method);
     $uriParts = explode('/', $_SERVER['REQUEST_URI']);
-
-    // Remove the first item from the array.
     array_shift($uriParts);
 
-    $numUriParts = count($uriParts);
-
     // Guard clause.
-    if ($numUriParts < 2) {
+    if ($uriParts[count($uriParts) - 1] === 'api') {
         throw new Exception('Please specify a resource...');
     }
 
     // Get targeted resource.
     $resourceName = $uriParts[1];
 
-    // Check if content file exists.
-    $filePath = __DIR__ . "/assets/content/{$resourceName}.json";
-    if (!file_exists($filePath)) {
+    // Check if resource co-relates to a valid API route.
+    if (!in_array($resourceName, $allowedRoutes)) {
         throw new Exception('Unidentifiable resource given...');
     }
 
-    $targetData = Encoder::decodeFromJSON(file_get_contents($filePath));
+    $filePath = __DIR__ . "/assets/content/{$resourceName}.json";
+    $resourceData = Encoder::decodeFromJSON(file_get_contents($filePath));
 
     // Check for ID.
     if ($numUriParts === 4) {
         $resourceID = $uriParts[3];
 
         $itemIDs = [];
-        foreach ($targetData as $data) {
+        foreach ($resourceData as $data) {
             $itemIDs[] = (int) $data['id'];
 
             if ((int) $data['id'] === (int) $resourceID) {
-                $targetData = $data;
+                $resourceData = $data;
 
                 break;
             }
@@ -70,4 +66,4 @@ try {
 }
 
 // Print result.
-echo Encoder::encodeToJSON('success', $targetData);
+echo Encoder::encodeToJSON('success', $resourceData);
