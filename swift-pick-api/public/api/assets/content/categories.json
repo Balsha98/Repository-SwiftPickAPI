@@ -1,86 +1,18 @@
 [
     {
         "id": 1,
-        "name": "Men's Wear",
-        "collections": [
-            {
-                "id": 1,
-                "name": "Polo Shirts"
-            },
-            {
-                "id": 2,
-                "name": "Hoodies & Sweatshirts"
-            },
-            {
-                "id": 3,
-                "name": "Gentleman's Wear"
-            },
-            {
-                "id": 4,
-                "name": "Athletic Wear"
-            }
-        ]
+        "name": "Men's Wear"
     },
     {
         "id": 2,
-        "name": "Women's Wear",
-        "collections": [
-            {
-                "id": 1,
-                "name": "Short-Sleeve Tees"
-            },
-            {
-                "id": 2,
-                "name": "Hoodies & Sweatshirts"
-            },
-            {
-                "id": 3,
-                "name": "Athletic Wear"
-            },
-            {
-                "id": 4,
-                "name": "VT Hats"
-            }
-        ]
+        "name": "Women's Wear"
     },
     {
-        "id": 5,
-        "name": "Team USA",
-        "collections": [
-            {
-                "id": 1,
-                "name": "Short-Sleeve Tees"
-            },
-            {
-                "id": 2,
-                "name": "Hoodies & Sweatshirts"
-            },
-            {
-                "id": 3,
-                "name": "USA Hats"
-            }
-        ]
+        "id": 3,
+        "name": "Team USA"
     },
     {
         "id": 4,
-        "name": "Accessories",
-        "collections": [
-            {
-                "id": 1,
-                "name": "Wallets"
-            },
-            {
-                "id": 2,
-                "name": "Footwear"
-            },
-            {
-                "id": 3,
-                "name": "Drinkwear"
-            },
-            {
-                "id": 4,
-                "name": "Stickers"
-            }
-        ]
+        "name": "Accessories"
     }
 ]

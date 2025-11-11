@@ -1,0 +1,77 @@
+[
+    {
+        "id": 1,
+        "category": 1,
+        "name": "Polo Shirts"
+    },
+    {
+        "id": 2,
+        "category": 1,
+        "name": "Hoodies & Sweatshirts"
+    },
+    {
+        "id": 3,
+        "category": 1,
+        "name": "Gentleman's Wear"
+    },
+    {
+        "id": 4,
+        "category": 1,
+        "name": "Athletic Wear"
+    },
+    {
+        "id": 1,
+        "category": 2,
+        "name": "Short-Sleeve Tees"
+    },
+    {
+        "id": 2,
+        "category": 2,
+        "name": "Hoodies & Sweatshirts"
+    },
+    {
+        "id": 3,
+        "category": 2,
+        "name": "Athletic Wear"
+    },
+    {
+        "id": 4,
+        "category": 2,
+        "name": "VT Hats"
+    },
+    {
+        "id": 1,
+        "category": 3,
+        "name": "Short-Sleeve Tees"
+    },
+    {
+        "id": 2,
+        "category": 3,
+        "name": "Hoodies & Sweatshirts"
+    },
+    {
+        "id": 3,
+        "category": 3,
+        "name": "USA Hats"
+    },
+    {
+        "id": 1,
+        "category": 4,
+        "name": "Wallets"
+    },
+    {
+        "id": 2,
+        "category": 4,
+        "name": "Footwear"
+    },
+    {
+        "id": 3,
+        "category": 4,
+        "name": "Drinkwear"
+    },
+    {
+        "id": 4,
+        "category": 4,
+        "name": "Stickers"
+    }
+]
