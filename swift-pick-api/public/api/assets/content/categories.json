@@ -5,26 +5,21 @@
         "collections": [
             {
                 "id": 1,
-                "name": "Polo Shirts",
-                "cover": "img:link"
+                "name": "Polo Shirts"
             },
             {
                 "id": 2,
-                "name": "Hoodies & Sweatshirts",
-                "cover": "img:link"
+                "name": "Hoodies & Sweatshirts"
             },
             {
                 "id": 3,
-                "name": "Gentleman's Wear",
-                "cover": "img:link"
+                "name": "Gentleman's Wear"
             },
             {
                 "id": 4,
-                "name": "Athletic Wear",
-                "cover": "img:link"
+                "name": "Athletic Wear"
             }
-        ],
-        "cover": "img:link"
+        ]
     },
     {
         "id": 2,
@@ -32,26 +27,21 @@
         "collections": [
             {
                 "id": 1,
-                "name": "Short-Sleeve Tees",
-                "cover": "img:link"
+                "name": "Short-Sleeve Tees"
             },
             {
                 "id": 2,
-                "name": "Hoodies & Sweatshirts",
-                "cover": "img:link"
+                "name": "Hoodies & Sweatshirts"
             },
             {
                 "id": 3,
-                "name": "Athletic Wear",
-                "cover": "img:link"
+                "name": "Athletic Wear"
             },
             {
                 "id": 4,
-                "name": "VT Hats",
-                "cover": "img:link"
+                "name": "VT Hats"
             }
-        ],
-        "cover": "img:link"
+        ]
     },
     {
         "id": 5,
@@ -59,21 +49,17 @@
         "collections": [
             {
                 "id": 1,
-                "name": "Short-Sleeve Tees",
-                "cover": "img:link"
+                "name": "Short-Sleeve Tees"
             },
             {
                 "id": 2,
-                "name": "Hoodies & Sweatshirts",
-                "cover": "img:link"
+                "name": "Hoodies & Sweatshirts"
             },
             {
                 "id": 3,
-                "name": "USA Hats",
-                "cover": "img:link"
+                "name": "USA Hats"
             }
-        ],
-        "cover": "img:link"
+        ]
     },
     {
         "id": 4,
@@ -81,25 +67,20 @@
         "collections": [
             {
                 "id": 1,
-                "name": "Wallets",
-                "cover": "img:link"
+                "name": "Wallets"
             },
             {
                 "id": 2,
-                "name": "Footwear",
-                "cover": "img:link"
+                "name": "Footwear"
             },
             {
                 "id": 3,
-                "name": "Drinkwear",
-                "cover": "img:link"
+                "name": "Drinkwear"
             },
             {
                 "id": 4,
-                "name": "Stickers",
-                "cover": "img:link"
+                "name": "Stickers"
             }
-        ],
-        "cover": "img:link"
+        ]
     }
 ]
