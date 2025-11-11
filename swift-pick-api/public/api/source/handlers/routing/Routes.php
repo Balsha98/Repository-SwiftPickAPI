@@ -7,6 +7,7 @@ class Routes
     private static array $routes = [
         'GET' => [
             'categories',
+            'collections',
             'products'
         ]
     ];
