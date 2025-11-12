@@ -30,7 +30,27 @@
 }
 
 /* PAGE HEADER NAVIGATION LIST ITEM */
-/* .page-header-navigation-list-item {} */
+.page-header-navigation-list-item {
+    position: relative;
+}
+
+.page-header-navigation-list-item::before {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: -0.8rem;
+    width: 0.4rem;
+    height: 0.4rem;
+    background-color: var(--white);
+    border-radius: 50%;
+    transition: background-color 0.3s ease-in-out;
+    transform: translateY(-50%);
+}
+
+.page-header-navigation-list-item:hover::before,
+.active.page-header-navigation-list-item::before {
+    background-color: var(--primary);
+}
 
 .page-header-navigation-list-item a:link,
 .page-header-navigation-list-item a:visited {

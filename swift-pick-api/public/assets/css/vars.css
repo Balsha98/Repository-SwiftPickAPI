@@ -2,6 +2,8 @@
     --white: #fff;
     --black: #000;
 
+    --primary: #ea1c2d;
+
     --opaque-shadow-sm: rgba(0, 0, 0, 0.1);
     --opaque-shadow-md: rgba(0, 0, 0, 0.3);
     --opaque-shadow-lg: rgba(0, 0, 0, 0.5);
