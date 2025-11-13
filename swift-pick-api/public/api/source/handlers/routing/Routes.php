@@ -8,7 +8,8 @@ class Routes
         'GET' => [
             'categories',
             'collections',
-            'products'
+            'products',
+            'stores'
         ]
     ];
 
