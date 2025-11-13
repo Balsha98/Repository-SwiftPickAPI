@@ -1,12 +1,12 @@
 [
     {
         "id": 1,
-        "name": "Red & White Pattern Polo Shirt (Classic Fit)",
+        "name": "FLB Red & White Pattern Polo Shirt (Classic Fit)",
         "category": 1,
         "collection": 1,
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": [],
-        "rewards": 10,
+        "rewards": 50,
         "images": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_POLO-All-Over-Lion-Print-Red.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_POLO-All-Over-Lion-Print-Red_Back.jpg"
@@ -15,40 +15,32 @@
     },
     {
         "id": 2,
-        "name": "Premium FLB White & Gold Polo Shirt (Classic Fit)",
+        "name": "Premium FLB Polo Shirt (Classic Fit)",
         "category": 1,
         "collection": 1,
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": ["black", "white", "gray", "red"],
-        "rewards": 10,
+        "rewards": 50,
         "images": [
+            "https://vtmerch.com/cdn/shop/files/premium_black_and_gold_polo_shirt-front_720.png",
+            "https://vtmerch.com/cdn/shop/files/premium_black_and_gold_polo_shirt-back_720.png",
             "https://vtmerch.com/cdn/shop/files/premium_white_and_red_polo_shirt-front_720.png",
-            "https://vtmerch.com/cdn/shop/files/premium_white_and_red_polo_shirt-back_720.png"
+            "https://vtmerch.com/cdn/shop/files/premium_white_and_red_polo_shirt-back_720.png",
+            "https://vtmerch.com/cdn/shop/files/premium_grey_and_black_polo_shirt-front_720.png",
+            "https://vtmerch.com/cdn/shop/files/premium_grey_and_black_polo_shirt-back_720.png",
+            "https://vtmerch.com/cdn/shop/files/premium_red_polo_shirt-front_720.png",
+            "https://vtmerch.com/cdn/shop/files/premium_red_polo_shirt-back_720.png"
         ],
         "price": 74.99
     },
     {
         "id": 3,
-        "name": "Premium FLB Gray & Black Polo Shirt (Classic Fit)",
-        "category": 1,
-        "collection": 1,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": ["black", "white", "gray", "red"],
-        "rewards": 10,
-        "images": [
-            "https://vtmerch.com/cdn/shop/files/premium_grey_and_black_polo_shirt-front_720.png",
-            "https://vtmerch.com/cdn/shop/files/premium_grey_and_black_polo_shirt-back_720.png"
-        ],
-        "price": 74.99
-    },
-    {
-        "id": 4,
         "name": "Charcoal Gray Pattern Polo Shirt (Classic Fit)",
         "category": 1,
         "collection": 1,
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": [],
-        "rewards": 10,
+        "rewards": 50,
         "images": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_POLO-All-Over-Lion-Print-GreyBlack.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_POLO-All-Over-Lion-Print-GreyBlack_Back.jpg"
@@ -56,13 +48,13 @@
         "price": 84.99
     },
     {
-        "id": 5,
+        "id": 4,
         "name": "Performance Black & Gray Zipper Polo Shirt (Classic Fit)",
         "category": 1,
         "collection": 1,
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": [],
-        "rewards": 10,
+        "rewards": 50,
         "images": [
             "https://vtmerch.com/cdn/shop/files/VTGrayLionPatternZipper-01.jpg",
             "https://vtmerch.com/cdn/shop/files/VTGrayLionPatternZipper-02.jpg",
@@ -71,13 +63,33 @@
         "price": 84.99
     },
     {
+        "id": 5,
+        "name": "Lion Shield Pattern Short-Sleeve Polo (Classic Fit)",
+        "category": 1,
+        "collection": 1,
+        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "colors": ["black", "blue"],
+        "rewards": 50,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/Front_1.png",
+            "https://vtmerch.com/cdn/shop/files/Back.png",
+            "https://vtmerch.com/cdn/shop/files/681cb4f4-0cb2-4b5c-bd75-26f864293281.jpg",
+            "https://vtmerch.com/cdn/shop/files/9efe11bd-0600-4f5a-90d4-82fc355c5cc5.jpg",
+            "https://vtmerch.com/cdn/shop/files/Front_4.png",
+            "https://vtmerch.com/cdn/shop/files/Back_3.png",
+            "https://vtmerch.com/cdn/shop/files/dcbed9b3-bae4-4c96-9d7f-48d58c5605ee.jpg",
+            "https://vtmerch.com/cdn/shop/files/2ddf4e2f-cd8a-4699-b442-5a6cb8953eb1.jpg"
+        ],
+        "price": 74.99
+    },
+    {
         "id": 6,
         "name": "Faith Over Fear VT Hoodie",
         "category": 1,
         "collection": 2,
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
         "colors": [],
-        "rewards": 20,
+        "rewards": 25,
         "images": [
             "https://vtmerch.com/cdn/shop/files/fof-sweater-back_720.png",
             "https://vtmerch.com/cdn/shop/files/fof-sweater-front_720.png"
@@ -91,7 +103,7 @@
         "collection": 2,
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
         "colors": [],
-        "rewards": 20,
+        "rewards": 25,
         "images": [
             "https://vtmerch.com/cdn/shop/files/livefree-hoodie-front_720.png",
             "https://vtmerch.com/cdn/shop/files/livefree-hoodie-back_720.png"
@@ -105,7 +117,7 @@
         "collection": 2,
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
         "colors": ["white", "red"],
-        "rewards": 20,
+        "rewards": 25,
         "images": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch1.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch1-back.jpg",
@@ -125,7 +137,7 @@
         "collection": 2,
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": ["navy"],
-        "rewards": 20,
+        "rewards": 25,
         "images": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_NewMerch_FLB-VT-SHIELD-3STACKS_NavySilver.png",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_NewMerch_FLB-VT-SHIELD-3STACKS_NavySilver_Back.png"
@@ -139,7 +151,7 @@
         "collection": 2,
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": ["black", "gray"],
-        "rewards": 20,
+        "rewards": 25,
         "images": [
             "https://vtmerch.com/cdn/shop/files/gold-black-lion-embossed-sweater_720.png",
             "https://vtmerch.com/cdn/shop/files/VT-Black-GoldEmboss-Hoodie-Back.png",
@@ -166,7 +178,7 @@
         "collection": 3,
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": [],
-        "rewards": 50,
+        "rewards": 75,
         "images": ["https://vtmerch.com/cdn/shop/files/long_sleeve_button_down_shirt_blue_720.png"],
         "price": 99.99
     },
@@ -177,7 +189,7 @@
         "collection": 3,
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": [],
-        "rewards": 50,
+        "rewards": 75,
         "images": ["https://vtmerch.com/cdn/shop/files/long_sleeve_button_down_shirt_black_720.png"],
         "price": 99.99
     },
@@ -188,7 +200,7 @@
         "collection": 3,
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": [],
-        "rewards": 50,
+        "rewards": 75,
         "images": [
             "https://vtmerch.com/cdn/shop/files/VT-White-Dress-Shirt-01.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-White-Dress-Shirt-02.jpg",
@@ -221,7 +233,7 @@
         "collection": 4,
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": [],
-        "rewards": 15,
+        "rewards": 10,
         "images": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_LS-All-Over-Lion-Print-BlackGrey.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_LS-All-Over-Lion-Print-BlackGrey_Back.jpg"
@@ -235,7 +247,7 @@
         "collection": 4,
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": ["gray", "green", "navy", "white", "black"],
-        "rewards": 15,
+        "rewards": 10,
         "images": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shirt5.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shirt5-back.jpg",
@@ -257,7 +269,7 @@
         "collection": 4,
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": ["gray", "green", "navy"],
-        "rewards": 15,
+        "rewards": 10,
         "images": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shorts1.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shorts-lining2.jpg",
@@ -278,7 +290,7 @@
         "collection": 4,
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": [],
-        "rewards": 15,
+        "rewards": 10,
         "images": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch3.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch3-back.jpg",
@@ -293,7 +305,7 @@
         "collection": 4,
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": ["white", "red"],
-        "rewards": 15,
+        "rewards": 10,
         "images": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch2_08a55ad9-b953-44f6-847d-6d6b31b93668.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch2-back_5b8f1e91-8cdc-4a12-af97-b91ae4c5fdc6.jpg",
