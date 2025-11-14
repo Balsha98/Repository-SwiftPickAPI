@@ -7,6 +7,7 @@
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": [],
         "rewards": 50,
+        "rating": 5,
         "images": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_POLO-All-Over-Lion-Print-Red.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_POLO-All-Over-Lion-Print-Red_Back.jpg"
@@ -21,6 +22,7 @@
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": ["black", "white", "gray", "red"],
         "rewards": 50,
+        "rating": 5,
         "images": [
             "https://vtmerch.com/cdn/shop/files/premium_black_and_gold_polo_shirt-front_720.png",
             "https://vtmerch.com/cdn/shop/files/premium_black_and_gold_polo_shirt-back_720.png",
@@ -41,6 +43,7 @@
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": [],
         "rewards": 50,
+        "rating": 5,
         "images": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_POLO-All-Over-Lion-Print-GreyBlack.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_POLO-All-Over-Lion-Print-GreyBlack_Back.jpg"
@@ -55,6 +58,7 @@
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": [],
         "rewards": 50,
+        "rating": 5,
         "images": [
             "https://vtmerch.com/cdn/shop/files/VTGrayLionPatternZipper-01.jpg",
             "https://vtmerch.com/cdn/shop/files/VTGrayLionPatternZipper-02.jpg",
@@ -70,6 +74,7 @@
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": ["black", "blue"],
         "rewards": 50,
+        "rating": 4.5,
         "images": [
             "https://vtmerch.com/cdn/shop/files/Front_1.png",
             "https://vtmerch.com/cdn/shop/files/Back.png",
@@ -90,6 +95,7 @@
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
         "colors": [],
         "rewards": 25,
+        "rating": 4.5,
         "images": [
             "https://vtmerch.com/cdn/shop/files/fof-sweater-back_720.png",
             "https://vtmerch.com/cdn/shop/files/fof-sweater-front_720.png"
@@ -104,6 +110,7 @@
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
         "colors": [],
         "rewards": 25,
+        "rating": 5,
         "images": [
             "https://vtmerch.com/cdn/shop/files/livefree-hoodie-front_720.png",
             "https://vtmerch.com/cdn/shop/files/livefree-hoodie-back_720.png"
@@ -118,6 +125,7 @@
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
         "colors": ["white", "red"],
         "rewards": 25,
+        "rating": 5,
         "images": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch1.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch1-back.jpg",
@@ -138,6 +146,7 @@
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": ["navy"],
         "rewards": 25,
+        "rating": 5,
         "images": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_NewMerch_FLB-VT-SHIELD-3STACKS_NavySilver.png",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_NewMerch_FLB-VT-SHIELD-3STACKS_NavySilver_Back.png"
@@ -152,6 +161,7 @@
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": ["black", "gray"],
         "rewards": 25,
+        "rating": 5,
         "images": [
             "https://vtmerch.com/cdn/shop/files/gold-black-lion-embossed-sweater_720.png",
             "https://vtmerch.com/cdn/shop/files/VT-Black-GoldEmboss-Hoodie-Back.png",
@@ -168,6 +178,7 @@
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": [],
         "rewards": 100,
+        "rating": 3,
         "images": ["https://vtmerch.com/cdn/shop/files/royal-blue-lightweight-wool-blazer_720.jpg"],
         "price": 499.99
     },
@@ -179,6 +190,7 @@
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": [],
         "rewards": 75,
+        "rating": 5,
         "images": ["https://vtmerch.com/cdn/shop/files/long_sleeve_button_down_shirt_blue_720.png"],
         "price": 99.99
     },
@@ -190,6 +202,7 @@
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": [],
         "rewards": 75,
+        "rating": 4,
         "images": ["https://vtmerch.com/cdn/shop/files/long_sleeve_button_down_shirt_black_720.png"],
         "price": 99.99
     },
@@ -201,6 +214,7 @@
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": [],
         "rewards": 75,
+        "rating": 4,
         "images": [
             "https://vtmerch.com/cdn/shop/files/VT-White-Dress-Shirt-01.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-White-Dress-Shirt-02.jpg",
@@ -218,6 +232,7 @@
         "sizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "13"],
         "colors": ["brown", "black", "white", "navy"],
         "rewards": 100,
+        "rating": 4.5,
         "images": [
             "https://vtmerch.com/cdn/shop/files/VT-Shoe-Brown-01_9337cea8-a82e-425e-9dab-3885931942e7.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-Shoe-Black-01.jpg",
@@ -234,6 +249,7 @@
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": [],
         "rewards": 10,
+        "rating": 5,
         "images": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_LS-All-Over-Lion-Print-BlackGrey.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_LS-All-Over-Lion-Print-BlackGrey_Back.jpg"
@@ -248,6 +264,7 @@
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": ["gray", "green", "navy", "white", "black"],
         "rewards": 10,
+        "rating": 5,
         "images": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shirt5.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shirt5-back.jpg",
@@ -270,6 +287,7 @@
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": ["gray", "green", "navy"],
         "rewards": 10,
+        "rating": 5,
         "images": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shorts1.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shorts-lining2.jpg",
@@ -291,6 +309,7 @@
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": [],
         "rewards": 10,
+        "rating": 5,
         "images": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch3.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch3-back.jpg",
@@ -306,6 +325,7 @@
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": ["white", "red"],
         "rewards": 10,
+        "rating": 5,
         "images": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch2_08a55ad9-b953-44f6-847d-6d6b31b93668.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch2-back_5b8f1e91-8cdc-4a12-af97-b91ae4c5fdc6.jpg",
@@ -316,5 +336,334 @@
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch5-strings.jpg"
         ],
         "price": 59.99
+    },
+    {
+        "id": 21,
+        "name": "Lion Shield Performance Short-Sleeve Polo",
+        "category": 2,
+        "collection": 1,
+        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "colors": ["black", "pink", "cream", "brown", "blue"],
+        "rewards": 50,
+        "rating": 4.5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Merch2.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Merch2-back.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Merch4_1c8fdc5b-3759-4bdf-8f53-740723b1ee0d.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Merch4-back_3c3adcae-a18a-4325-bb76-9ee7215e4dd7.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Merch3_0d77b009-bb92-4ff3-bacf-41c601b97d1f.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Merch3-back_49c2ed2b-18c6-4ed7-8739-3da5464f5f30.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Merch5.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Merch5-back.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Merch6_7d17bd6d-c1d8-4fbd-bbd6-f0846be28679.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Merch6-back_10a49d39-1399-4fb7-b051-77e0fa3c33ba.jpg"
+        ],
+        "price": 69.99
+    },
+    {
+        "id": 22,
+        "name": "Lion Shield Charcoal Gray Pattern Short-Sleeve Polo",
+        "category": 2,
+        "collection": 1,
+        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "colors": [],
+        "rewards": 50,
+        "rating": 5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Merch1_f79d3909-48ea-4fec-80b1-31b116ed2743.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Merch1-back.jpg"
+        ],
+        "price": 69.99
+    },
+    {
+        "id": 23,
+        "name": "FLB Bright Heart VT Mom Short-Sleeve Tee",
+        "category": 2,
+        "collection": 1,
+        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "colors": [],
+        "rewards": 10,
+        "rating": 5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Merch1_f79d3909-48ea-4fec-80b1-31b116ed2743.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Merch1-back.jpg"
+        ],
+        "price": 34.99
+    },
+    {
+        "id": 24,
+        "name": "FLB Bright Heart VT Mom Era Short-Sleeve Tee",
+        "category": 2,
+        "collection": 1,
+        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "colors": [],
+        "rewards": 10,
+        "rating": 4,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_MothersDay2025_Merch2.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_MothersDay2025_Merch2_Back.jpg"
+        ],
+        "price": 29.99
+    },
+    {
+        "id": 25,
+        "name": "PBD Podcast Short-Sleeve Tee",
+        "category": 2,
+        "collection": 1,
+        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "colors": ["pink", "white", "black"],
+        "rewards": 10,
+        "rating": 5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/3bceb383-bdae-4bfb-a4c3-d57264f3f346.jpg",
+            "https://vtmerch.com/cdn/shop/files/6d99f812-6674-48c8-8e80-cf79c438dfbc.jpg",
+            "https://vtmerch.com/cdn/shop/files/pbd_white_top_900x900_front_720.jpg",
+            "https://vtmerch.com/cdn/shop/files/pbd_white_top_900x900_back_720.jpg",
+            "https://vtmerch.com/cdn/shop/files/pbd_black_top_900x900_front_v6_black.jpg",
+            "https://vtmerch.com/cdn/shop/files/pbd_black_top_900x900_back_v5_black.jpg"
+        ],
+        "price": 24.99
+    },
+    {
+        "id": 26,
+        "name": "VT Performance CrewNeck Sweatshirt",
+        "category": 2,
+        "collection": 2,
+        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "colors": ["pink", "gray"],
+        "rewards": 25,
+        "rating": 3.5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Women-Sweatshirt.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Women-Sweatshirt_Back.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-Black-Rhinestone-Sweater-Womens-Front.png",
+            "https://vtmerch.com/cdn/shop/files/Womens-Rhinestone-Silver-Dark-Grey-Valuetainment-Performance-Crewneck-Sweatshirt---Back.jpg"
+        ],
+        "price": 64.99
+    },
+    {
+        "id": 27,
+        "name": "FLB Bright Lilac VT Mama Sweatshirt",
+        "category": 2,
+        "collection": 2,
+        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "colors": [],
+        "rewards": 25,
+        "rating": 5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_MothersDay2025_Merch5.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_MothersDay2025_Merch5_Back.jpg"
+        ],
+        "price": 54.99
+    },
+    {
+        "id": 28,
+        "name": "FLB Periwinkle Tough As a VT Mother Sweatshirt",
+        "category": 2,
+        "collection": 2,
+        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "colors": [],
+        "rewards": 25,
+        "rating": 4.5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_MothersDay2025_Merch6.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_MothersDay2025_Merch6_Back.jpg"
+        ],
+        "price": 49.99
+    },
+    {
+        "id": 29,
+        "name": "VT Performance CrewNeck Sweatshirt",
+        "category": 2,
+        "collection": 2,
+        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "colors": ["brown", "gray", "red"],
+        "rewards": 25,
+        "rating": 4,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/VT-Maroon-SilverEmboss-Sweater-Front_e73523e5-3ceb-4576-a270-d9b32cf96307.png",
+            "https://vtmerch.com/cdn/shop/files/VT-Maroon-SilverEmboss-Sweater-Back_f2ab6915-4bfa-44ea-a6e0-31fb11564239.png",
+            "https://vtmerch.com/cdn/shop/files/VT-Heather-Grey-SilverEmboss-Sweater-Front_d60c0219-9ba0-4e06-a31b-0039cb004490.png",
+            "https://vtmerch.com/cdn/shop/files/VT-Heather-Grey-SilverEmboss-Sweater-Back_6169fe8c-cae2-45a7-9d30-469ccd6eff9d.png",
+            "https://vtmerch.com/cdn/shop/files/VT-Red-SilverEmboss-Sweater-Front.png",
+            "https://vtmerch.com/cdn/shop/files/VTRed-SilverEmboss-Sweater-Back.png"
+        ],
+        "price": 64.99
+    },
+    {
+        "id": 30,
+        "name": "FLB Army Green Strappy Sports Bra",
+        "category": 2,
+        "collection": 2,
+        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "colors": [],
+        "rewards": 10,
+        "rating": 5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_SportsBra4_4a0e2a51-7e06-4330-a113-1590c6d89428.jpg"
+        ],
+        "price": 29.99
+    },
+    {
+        "id": 31,
+        "name": "FLB Army Green Performance Leggings",
+        "category": 2,
+        "collection": 2,
+        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "colors": [],
+        "rewards": 10,
+        "rating": 5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Leggings4_3db9c9bd-5eac-4154-a52b-1af81f97b3dc.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Leggings4-back_92aaa2cb-062e-492b-a8a4-8748c37f1c88.jpg"
+        ],
+        "price": 44.99
+    },
+    {
+        "id": 32,
+        "name": "Lion Shield Charcoal Gray Pattern Performance Midi Tank",
+        "category": 2,
+        "collection": 2,
+        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "colors": [],
+        "rewards": 10,
+        "rating": 5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Tank1.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Tank1-back_626c302d-2ba4-4108-b84e-52265847f715.jpg"
+        ],
+        "price": 39.99
+    },
+    {
+        "id": 33,
+        "name": "FLB Charcoal Gray Pattern Biker Shorts",
+        "category": 2,
+        "collection": 2,
+        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "colors": [],
+        "rewards": 10,
+        "rating": 4,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_BikeShorts1.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_BikeShorts1-back.jpg"
+        ],
+        "price": 39.99
+    },
+    {
+        "id": 34,
+        "name": "VT Black Full Zip-Up Jacket",
+        "category": 2,
+        "collection": 2,
+        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "colors": [],
+        "rewards": 10,
+        "rating": 5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch4.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch4-back.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch4-handdetail.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch4-vt.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch4-zipper.jpg"
+        ],
+        "price": 54.99
+    },
+    {
+        "id": 35,
+        "name": "FLB Velcro Performance Hat",
+        "category": 2,
+        "collection": 2,
+        "sizes": [],
+        "colors": ["white", "yellow", "cyan", "pink", "gray", "brown", "purple"],
+        "rewards": 10,
+        "rating": 4.5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats21.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats21-6.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats28.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats28-7.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats31.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats31-7.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats20.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats20-7.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats22.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats22-7.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats27.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats27-7.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats25.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats25-7.jpg"
+        ],
+        "price": 34.99
+    },
+    {
+        "id": 36,
+        "name": "FLB Velcro Performance Perforated Hat",
+        "category": 2,
+        "collection": 2,
+        "sizes": [],
+        "colors": ["white", "red", "navy", "blue"],
+        "rewards": 10,
+        "rating": 5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats15.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats15-3.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats16.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats16-3.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats14.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats14-3.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats13.jpg",
+            "https://vtmerch.com/cdn/shop/files/SR24F084_25_Pewtergrey_Blue_3_07204522-4e83-4f6f-bd01-8ba654777baf.jpg"
+        ],
+        "price": 34.99
+    },
+    {
+        "id": 37,
+        "name": "FLB Pink Snapback Hat",
+        "category": 2,
+        "collection": 2,
+        "sizes": [],
+        "colors": [],
+        "rewards": 10,
+        "rating": 5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/Women_s-VT-Shield-Logo-Future-Looks-Bright-Light-Pink-Snapback-Hat-01_86b7803e-015c-4f3c-bc08-e07fdf29893f.jpg",
+            "https://vtmerch.com/cdn/shop/files/Women_s-VT-Shield-Logo-Future-Looks-Bright-Light-Pink-Snapback-Hat-02_c6814434-2be3-43b1-99ee-2d4af63d6a2a.jpg",
+            "https://vtmerch.com/cdn/shop/files/Women_s-VT-Shield-Logo-Future-Looks-Bright-Light-Pink-Snapback-Hat-04_ea298684-fc87-48aa-8b43-2451d647ca77.jpg",
+            "https://vtmerch.com/cdn/shop/files/Women_s-VT-Shield-Logo-Future-Looks-Bright-Light-Pink-Snapback-Hat-06_4654228a-4620-4870-82a5-f0d0b8208f16.jpg"
+        ],
+        "price": 14.99
+    },
+    {
+        "id": 38,
+        "name": "FLB VT Mom White & Denim Dual Tone Snapback Hat",
+        "category": 2,
+        "collection": 2,
+        "sizes": [],
+        "colors": [],
+        "rewards": 10,
+        "rating": 5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats29.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats29-3.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats29-6.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats29-7.jpg"
+        ],
+        "price": 34.99
+    },
+    {
+        "id": 39,
+        "name": "FLB Pink & White Snapback Hat",
+        "category": 2,
+        "collection": 2,
+        "sizes": [],
+        "colors": [],
+        "rewards": 10,
+        "rating": 5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/Women_s-VT-Shield-Logo-Future-Looks-Bright-Pink-_-White-Snapback-Hat-01.jpg",
+            "https://vtmerch.com/cdn/shop/files/Women_s-VT-Shield-Logo-Future-Looks-Bright-Pink-_-White-Snapback-Hat-02.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats69.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats69-3.jpg"
+        ],
+        "price": 19.99
     }
 ]
