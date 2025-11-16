@@ -897,5 +897,296 @@
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats58-6.jpg"
         ],
         "price": 19.99
+    },
+    {
+        "id": 55,
+        "name": "VT Wallet-Keychain Set",
+        "category": 4,
+        "collection": 1,
+        "sizes": [],
+        "colors": ["black", "brown", "gray"],
+        "rewards": 10,
+        "rating": 4.5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/10.jpg",
+            "https://vtmerch.com/cdn/shop/files/7.jpg",
+            "https://vtmerch.com/cdn/shop/files/8.jpg",
+            "https://vtmerch.com/cdn/shop/files/11.jpg",
+            "https://vtmerch.com/cdn/shop/files/4_0f15c3e9-bae8-4e76-9005-5309dd6a6a63.jpg",
+            "https://vtmerch.com/cdn/shop/files/8_2d5ccf45-6249-4c62-bd59-6108ceb79b67.jpg",
+            "https://vtmerch.com/cdn/shop/files/2_4f561288-2e50-4d01-9cfc-4eb7d2289e32.jpg",
+            "https://vtmerch.com/cdn/shop/files/5_e4479c5c-b306-48a4-8adc-c3fbf263acee.jpg",
+            "https://vtmerch.com/cdn/shop/files/5_1bb28514-e365-43eb-90ff-d0e16b4f62db.jpg",
+            "https://vtmerch.com/cdn/shop/files/8_4470c3a8-7f21-4c3c-94e3-3e6c7f769bcf.jpg",
+            "https://vtmerch.com/cdn/shop/files/4_56746ba0-ee7a-4594-94b1-ae8857b5a503.jpg",
+            "https://vtmerch.com/cdn/shop/files/6_30f4ca62-141f-4b1f-8ff6-0f5f430c4a50.jpg"
+        ],
+        "price": 39.99
+    },
+    {
+        "id": 56,
+        "name": "FLB Leather RFID Credit Card Holder",
+        "category": 4,
+        "collection": 1,
+        "sizes": [],
+        "colors": ["blue", "brown", "black", "red"],
+        "rewards": 10,
+        "rating": 3.5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Cardholders_Merch2.jpg",
+            "https://vtmerch.com/cdn/shop/files/Back_6f820b0d-0deb-4fbf-a5ee-d4ff678ed7e1.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Cardholders_Merch1.jpg",
+            "https://vtmerch.com/cdn/shop/files/Back_c8f2a8f7-ee81-4460-818d-a9c3aa4b76fd.jpg",
+            "https://vtmerch.com/cdn/shop/files/Front.jpg",
+            "https://vtmerch.com/cdn/shop/files/Back.jpg",
+            "https://vtmerch.com/cdn/shop/files/Front_c7e242d0-83bf-4cbd-88bb-c73f38c90558.jpg",
+            "https://vtmerch.com/cdn/shop/files/Back_bcbf383b-bbbc-43d5-a6f9-a11553845197.jpg"
+        ],
+        "price": 19.99
+    },
+    {
+        "id": 57,
+        "name": "VT Premium Leather Fold Wallet",
+        "category": 4,
+        "collection": 1,
+        "sizes": [],
+        "colors": ["brown", "black"],
+        "rewards": 10,
+        "rating": 4.5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/VT_Brown_Wallet-01_33455cb4-68ce-4435-afa1-d52497bc2e39.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT_Brown_Wallet-03_b46e6a9a-2ca6-46c8-8163-d52e5e2f1bbf.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT_Brown_Wallet-04_5555f6a6-fcc2-447a-a749-cac01cb1419c.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT_Black_Wallet-01.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT_Black_Wallet-03.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT_Black_Wallet-04.jpg"
+        ],
+        "price": 34.99
+    },
+    {
+        "id": 58,
+        "name": "VT Black Leather RFID Credit Card Holder",
+        "category": 4,
+        "collection": 1,
+        "sizes": [],
+        "colors": [],
+        "rewards": 10,
+        "rating": 3.5,
+        "images": ["https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Cardholders1.jpg"],
+        "price": 19.99
+    },
+    {
+        "id": 59,
+        "name": "VT Lion Crest Primary Motive Slides",
+        "category": 4,
+        "collection": 2,
+        "sizes": [],
+        "colors": [],
+        "rewards": 10,
+        "rating": 3,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_LionCrest_BlackMotive_050225_TopMock_020a81c5-ad82-4ed6-aae8-3122f1d762ac.png",
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_LionCrest_BlackMotive_050225_SideMock_4d4d2764-dad3-474a-a0aa-eeee2471a779.png"
+        ],
+        "price": 60
+    },
+    {
+        "id": 59,
+        "name": "VT Patriotic Gray Camouflage Comfort Slides",
+        "category": 4,
+        "collection": 2,
+        "sizes": ["7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17"],
+        "colors": [],
+        "rewards": 10,
+        "rating": 5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_Flag_UrbanCamo_Grey_TopMock_030325.png",
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_Flag_UrbanCamo_Grey_AngledMock_030325.png",
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_Flag_UrbanCamo_Grey_SideMock_030325.png"
+        ],
+        "price": 55
+    },
+    {
+        "id": 60,
+        "name": "FLB Charcoal Gray Pattern Comfort Slides",
+        "category": 4,
+        "collection": 2,
+        "sizes": ["7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17"],
+        "colors": [],
+        "rewards": 10,
+        "rating": 5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_LionPattern_WSides_Black_TopMock_032825.png",
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_LionPattern_WSides_Black_AngledMock_032825.png",
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_LionPattern_WSides_Black_SideMock_032825.png"
+        ],
+        "price": 55
+    },
+    {
+        "id": 61,
+        "name": "FLB White & Blue Gel Comfort Slides",
+        "category": 4,
+        "collection": 2,
+        "sizes": ["7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17"],
+        "colors": [],
+        "rewards": 10,
+        "rating": 5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_FLBFull_WhiteIceGel_Mock_030325.png",
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_FLBFull_WhiteIceGel_AngledMock_030325.png",
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_FLBFull_WhiteIceGel_SideMock_030325.png"
+        ],
+        "price": 60
+    },
+    {
+        "id": 62,
+        "name": "FLB Lion Legacy Red & Gold Comfort Slides",
+        "category": 4,
+        "collection": 2,
+        "sizes": ["7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17"],
+        "colors": [],
+        "rewards": 10,
+        "rating": 5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_FLBGold_WSides_Red_TopMock_032825.png",
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_FLBGold_WSides_Red_AngledMock_032825.png",
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_FLBGold_WSides_Red_SideMock_032825.png"
+        ],
+        "price": 48
+    },
+    {
+        "id": 63,
+        "name": "VT FLB Yeti Rambler (30oz)",
+        "category": 4,
+        "collection": 3,
+        "sizes": [],
+        "colors": ["green", "blue"],
+        "rewards": 10,
+        "rating": 5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Yeti-Phase2-Teal.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Yeti-Phase2-Teal-Back.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Yeti-Merch1.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Yeti-Merch1-2.jpg"
+        ],
+        "price": 64.99
+    },
+    {
+        "id": 64,
+        "name": "Lion Shield Stainless Steel Water Bottle (25oz)",
+        "category": 4,
+        "collection": 3,
+        "sizes": [],
+        "colors": ["black", "gold"],
+        "rewards": 10,
+        "rating": 5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/VT-Matte-Black-Bottle.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-Gold-Water-Bottle.jpg"
+        ],
+        "price": 24.99
+    },
+    {
+        "id": 65,
+        "name": "VT FLB Yeti Rambler Straw Mug (42oz)",
+        "category": 4,
+        "collection": 3,
+        "sizes": [],
+        "colors": ["pink", "white"],
+        "rewards": 10,
+        "rating": 5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Yeti-Pink.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Yeti-Phase2_Back.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Yeti-Handle-White.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Yeti-Handle-White_Back.jpg"
+        ],
+        "price": 74.99
+    },
+    {
+        "id": 66,
+        "name": "FLB Black & Red Lion Shield Mug",
+        "category": 4,
+        "collection": 3,
+        "sizes": [],
+        "colors": [],
+        "rewards": 10,
+        "rating": 4.5,
+        "images": ["https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Red-Lion-Shield-Mug.jpg"],
+        "price": 9.99
+    },
+    {
+        "id": 67,
+        "name": "VT FLB Mom Mug",
+        "category": 4,
+        "collection": 3,
+        "sizes": [],
+        "colors": [],
+        "rewards": 10,
+        "rating": 5,
+        "images": ["https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_VT-Mom-Mug.jpg"],
+        "price": 9.99
+    },
+    {
+        "id": 68,
+        "name": "FLB Mount Rushmore Sticker (4\" x 2.25\")",
+        "category": 4,
+        "collection": 4,
+        "sizes": [],
+        "colors": [],
+        "rewards": 10,
+        "rating": 4.5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_PresidentsDay_Magnet_MtRushmoreTrump_4INby2-25IN.png"
+        ],
+        "price": 4.99
+    },
+    {
+        "id": 69,
+        "name": "FLB Bright Flag Sticker (8\" x 3\")",
+        "category": 4,
+        "collection": 4,
+        "sizes": [],
+        "colors": [],
+        "rewards": 10,
+        "rating": 4.5,
+        "images": ["https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_PresidentsDay_Magnet_FLB-Lion-Flag_8INby3IN.png"],
+        "price": 4.99
+    },
+    {
+        "id": 70,
+        "name": "VT Angry Patriot Sticker (2\" x 6\")",
+        "category": 4,
+        "collection": 4,
+        "sizes": [],
+        "colors": [],
+        "rewards": 10,
+        "rating": 4.5,
+        "images": ["https://vtmerch.com/cdn/shop/files/AngryPatriot.png"],
+        "price": 1.99
+    },
+    {
+        "id": 71,
+        "name": "Future Looks Bright Sticker (3\" x 3\")",
+        "category": 4,
+        "collection": 4,
+        "sizes": [],
+        "colors": [],
+        "rewards": 10,
+        "rating": 5,
+        "images": ["https://vtmerch.com/cdn/shop/files/FLB-Sticker.png"],
+        "price": 2
+    },
+    {
+        "id": 71,
+        "name": "Business Is War Sticker (5\" x 2.25\")",
+        "category": 4,
+        "collection": 4,
+        "sizes": [],
+        "colors": [],
+        "rewards": 10,
+        "rating": 5,
+        "images": ["https://vtmerch.com/cdn/shop/files/Business-Is-War.png"],
+        "price": 2
     }
 ]
