@@ -38,7 +38,7 @@ try {
         throw new Exception('Unidentifiable resource given...');
     }
 
-    $filePath = __DIR__ . "/assets/content/{$resourceName}.json";
+    $filePath = __DIR__ . "/content/{$resourceName}.json";
     $resourceData = Encoder::decodeFromJSON(file_get_contents($filePath));
 
     // Check for ID.

@@ -494,7 +494,7 @@
         "id": 30,
         "name": "FLB Army Green Strappy Sports Bra",
         "category": 2,
-        "collection": 2,
+        "collection": 3,
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": [],
         "rewards": 10,
@@ -508,7 +508,7 @@
         "id": 31,
         "name": "FLB Army Green Performance Leggings",
         "category": 2,
-        "collection": 2,
+        "collection": 3,
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": [],
         "rewards": 10,
@@ -523,7 +523,7 @@
         "id": 32,
         "name": "Lion Shield Charcoal Gray Pattern Performance Midi Tank",
         "category": 2,
-        "collection": 2,
+        "collection": 3,
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": [],
         "rewards": 10,
@@ -538,7 +538,7 @@
         "id": 33,
         "name": "FLB Charcoal Gray Pattern Biker Shorts",
         "category": 2,
-        "collection": 2,
+        "collection": 3,
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": [],
         "rewards": 10,
@@ -553,7 +553,7 @@
         "id": 34,
         "name": "VT Black Full Zip-Up Jacket",
         "category": 2,
-        "collection": 2,
+        "collection": 3,
         "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
         "colors": [],
         "rewards": 10,
@@ -571,7 +571,7 @@
         "id": 35,
         "name": "FLB Velcro Performance Hat",
         "category": 2,
-        "collection": 2,
+        "collection": 4,
         "sizes": [],
         "colors": ["white", "yellow", "cyan", "pink", "gray", "brown", "purple"],
         "rewards": 10,
@@ -598,7 +598,7 @@
         "id": 36,
         "name": "FLB Velcro Performance Perforated Hat",
         "category": 2,
-        "collection": 2,
+        "collection": 4,
         "sizes": [],
         "colors": ["white", "red", "navy", "blue"],
         "rewards": 10,
@@ -619,7 +619,7 @@
         "id": 37,
         "name": "FLB Pink Snapback Hat",
         "category": 2,
-        "collection": 2,
+        "collection": 4,
         "sizes": [],
         "colors": [],
         "rewards": 10,
@@ -636,7 +636,7 @@
         "id": 38,
         "name": "FLB VT Mom White & Denim Dual Tone Snapback Hat",
         "category": 2,
-        "collection": 2,
+        "collection": 4,
         "sizes": [],
         "colors": [],
         "rewards": 10,
@@ -653,7 +653,7 @@
         "id": 39,
         "name": "FLB Pink & White Snapback Hat",
         "category": 2,
-        "collection": 2,
+        "collection": 4,
         "sizes": [],
         "colors": [],
         "rewards": 10,
@@ -663,6 +663,238 @@
             "https://vtmerch.com/cdn/shop/files/Women_s-VT-Shield-Logo-Future-Looks-Bright-Pink-_-White-Snapback-Hat-02.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats69.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats69-3.jpg"
+        ],
+        "price": 19.99
+    },
+    {
+        "id": 40,
+        "name": "USA Live Free Black Short-Sleeve Tee",
+        "category": 3,
+        "collection": 1,
+        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "colors": [],
+        "rewards": 10,
+        "rating": 4,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/live-free-black-1-Front.png",
+            "https://vtmerch.com/cdn/shop/files/live-free-black-2-Back_a2f88c7a-63c6-4187-9bf2-06152c6ae510.png"
+        ],
+        "price": 34.99
+    },
+    {
+        "id": 41,
+        "name": "USA FLB Black Short-Sleeve Tee",
+        "category": 3,
+        "collection": 1,
+        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "colors": [],
+        "rewards": 10,
+        "rating": 3.5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/live-free-black-2-Front.png",
+            "https://vtmerch.com/cdn/shop/files/live-free-black-2-Back.png"
+        ],
+        "price": 34.99
+    },
+    {
+        "id": 42,
+        "name": "USA FLB Bright White Short-Sleeve Tee",
+        "category": 3,
+        "collection": 1,
+        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "colors": [],
+        "rewards": 10,
+        "rating": 5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/live-free-white-1-Front.png",
+            "https://vtmerch.com/cdn/shop/files/live-free-White-1-Back.png"
+        ],
+        "price": 34.99
+    },
+    {
+        "id": 43,
+        "name": "VT Black & Gray Performance Short-Sleeve Tee",
+        "category": 3,
+        "collection": 1,
+        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "colors": [],
+        "rewards": 10,
+        "rating": 4.5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_NewMerch_VT-FLAG_Black.png",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_NewMerch_VT-FLAG_Black_Back.png"
+        ],
+        "price": 24.99
+    },
+    {
+        "id": 44,
+        "name": "Team America VT Short-Sleeve Tee (Slim-Fit)",
+        "category": 3,
+        "collection": 1,
+        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "colors": ["white", "blue", "gray"],
+        "rewards": 10,
+        "rating": 4.5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/Valuetainment-TeamAmericaRetro-AVN6010-T-Shirt-White-Front.jpg",
+            "https://vtmerch.com/cdn/shop/files/Valuetainment-TeamAmericaRetro-AVN6010-T-Shirt-White-Back.jpg",
+            "https://vtmerch.com/cdn/shop/files/Valuetainment-TeamAmericaRetro-AVN6010-T-Shirt-LegionBlue-Front.jpg",
+            "https://vtmerch.com/cdn/shop/files/Valuetainment-TeamAmericaRetro-AVN6010-T-Shirt-LegionBlue-Back.jpg",
+            "https://vtmerch.com/cdn/shop/files/Valuetainment-TeamAmericaRetro-AVN6010-T-Shirt-VintageHeavyMetal-Front.jpg",
+            "https://vtmerch.com/cdn/shop/files/Valuetainment-TeamAmericaRetro-AVN6010-T-Shirt-VintageHeavyMetal-Back.jpg"
+        ],
+        "price": 29.99
+    },
+    {
+        "id": 45,
+        "name": "FLB Black Star Flag Hoodie",
+        "category": 3,
+        "collection": 2,
+        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+        "colors": [],
+        "rewards": 25,
+        "rating": 5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_PresidentsDay_Hoodie_FLBShield_Black.png",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_PresidentsDay_Hoodie_FLBShield_Black_Back.png"
+        ],
+        "price": 54.99
+    },
+    {
+        "id": 46,
+        "name": "Angry Patriot Black Long-Sleeve Lightweight Hoodie",
+        "category": 3,
+        "collection": 2,
+        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "colors": ["black", "gray"],
+        "rewards": 25,
+        "rating": 4.5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/ap-longsleeve-black_720.png",
+            "https://vtmerch.com/cdn/shop/files/884a35b8-8d3a-4ac0-8e11-27307f66894c.jpg",
+            "https://vtmerch.com/cdn/shop/files/4b0859d0-8468-400b-860b-6800b953e228.jpg",
+            "https://vtmerch.com/cdn/shop/files/6de40612-e233-4bb3-bab7-00fbe37cee02.jpg"
+        ],
+        "price": 19.99
+    },
+    {
+        "id": 47,
+        "name": "Allegedly Black Long-Sleeve Lightweight Performance Hoodie",
+        "category": 3,
+        "collection": 2,
+        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "colors": [],
+        "rewards": 25,
+        "rating": 4.5,
+        "images": ["https://vtmerch.com/cdn/shop/files/allegedly-longsleeve-black_720.png"],
+        "price": 19.99
+    },
+    {
+        "id": 48,
+        "name": "FLB California State Black Hoodie",
+        "category": 3,
+        "collection": 2,
+        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "colors": [],
+        "rewards": 25,
+        "rating": 5,
+        "images": ["https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_States-Hoodies3.jpg"],
+        "price": 54.99
+    },
+    {
+        "id": 49,
+        "name": "FLB Florida State Black Hoodie",
+        "category": 3,
+        "collection": 2,
+        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "colors": [],
+        "rewards": 25,
+        "rating": 5,
+        "images": ["https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_States-Hoodies2.jpg"],
+        "price": 54.99
+    },
+    {
+        "id": 50,
+        "name": "USA Retro FLB White Snapback Hat",
+        "category": 3,
+        "collection": 2,
+        "sizes": [],
+        "colors": [],
+        "rewards": 10,
+        "rating": 5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/VT-FLB-_USA_-Flag-Snapback-Hat-01.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats64-2.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats64-3.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats64-6.jpg"
+        ],
+        "price": 34.99
+    },
+    {
+        "id": 51,
+        "name": "VT FLB White Performance Snapback Hat",
+        "category": 3,
+        "collection": 2,
+        "sizes": [],
+        "colors": [],
+        "rewards": 10,
+        "rating": 4.5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats49.jpg",
+            "https://vtmerch.com/cdn/shop/files/Peformancehat-white_whiterope_4.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats49-3.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats49-4.jpg"
+        ],
+        "price": 34.99
+    },
+    {
+        "id": 52,
+        "name": "FLB USA Flag Navy Snapback Hat",
+        "category": 3,
+        "collection": 2,
+        "sizes": [],
+        "colors": [],
+        "rewards": 10,
+        "rating": 5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats53-5.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats53.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats53-2.jpg",
+            "https://vtmerch.com/cdn/shop/files/FLB-Navy-USA-Flag-Hat-08_15c904a2-62a6-45a8-a438-b42311167f65.jpg"
+        ],
+        "price": 34.99
+    },
+    {
+        "id": 53,
+        "name": "USA Retro FLB Camouflage Snapback Hat",
+        "category": 3,
+        "collection": 2,
+        "sizes": [],
+        "colors": [],
+        "rewards": 10,
+        "rating": 5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats51.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats51-2.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats51-4.jpg",
+            "https://vtmerch.com/cdn/shop/files/90a5e3b6-78fe-4d00-ac71-458bf36bae84.jpg"
+        ],
+        "price": 19.99
+    },
+    {
+        "id": 54,
+        "name": "VT FLB Gray Digital Camouflage Snapback Hat",
+        "category": 3,
+        "collection": 2,
+        "sizes": [],
+        "colors": [],
+        "rewards": 10,
+        "rating": 5,
+        "images": [
+            "https://vtmerch.com/cdn/shop/files/94a2a96f-4093-4c30-b8b1-5e1ac87e4ff5.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats58-4.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats58-5.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats58-6.jpg"
         ],
         "price": 19.99
     }
