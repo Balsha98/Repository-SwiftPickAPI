@@ -1,18 +1,18 @@
 [
     {
-        "id": 1,
-        "name": "Men's Wear"
+        "categoryId": 1,
+        "categoryName": "Men's Wear"
     },
     {
-        "id": 2,
-        "name": "Women's Wear"
+        "categoryId": 2,
+        "categoryName": "Women's Wear"
     },
     {
-        "id": 3,
-        "name": "Team USA"
+        "categoryId": 3,
+        "categoryName": "Team USA"
     },
     {
-        "id": 4,
-        "name": "Accessories"
+        "categoryId": 4,
+        "categoryName": "Accessories"
     }
 ]

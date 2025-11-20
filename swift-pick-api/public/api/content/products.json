@@ -1,29 +1,29 @@
 [
     {
-        "id": 1,
-        "name": "FLB Red & White Pattern Polo Shirt (Classic Fit)",
-        "category": 1,
-        "collection": 1,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": [],
-        "rewards": 50,
-        "rating": 5,
-        "images": [
+        "productId": 1,
+        "productName": "FLB Red & White Pattern Polo Shirt (Classic Fit)",
+        "categoryId": 1,
+        "collectionId": 1,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": [],
+        "productRewardPoints": 50,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_POLO-All-Over-Lion-Print-Red.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_POLO-All-Over-Lion-Print-Red_Back.jpg"
         ],
-        "price": 84.99
+        "productPrice": 84.99
     },
     {
-        "id": 2,
-        "name": "Premium FLB Polo Shirt (Classic Fit)",
-        "category": 1,
-        "collection": 1,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": ["black", "white", "gray", "red"],
-        "rewards": 50,
-        "rating": 5,
-        "images": [
+        "productId": 2,
+        "productName": "Premium FLB Polo Shirt (Classic Fit)",
+        "categoryId": 1,
+        "collectionId": 1,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": ["black", "white", "gray", "red"],
+        "productRewardPoints": 50,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/premium_black_and_gold_polo_shirt-front_720.png",
             "https://vtmerch.com/cdn/shop/files/premium_black_and_gold_polo_shirt-back_720.png",
             "https://vtmerch.com/cdn/shop/files/premium_white_and_red_polo_shirt-front_720.png",
@@ -33,49 +33,49 @@
             "https://vtmerch.com/cdn/shop/files/premium_red_polo_shirt-front_720.png",
             "https://vtmerch.com/cdn/shop/files/premium_red_polo_shirt-back_720.png"
         ],
-        "price": 74.99
+        "productPrice": 74.99
     },
     {
-        "id": 3,
-        "name": "Charcoal Gray Pattern Polo Shirt (Classic Fit)",
-        "category": 1,
-        "collection": 1,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": [],
-        "rewards": 50,
-        "rating": 5,
-        "images": [
+        "productId": 3,
+        "productName": "Charcoal Gray Pattern Polo Shirt (Classic Fit)",
+        "categoryId": 1,
+        "collectionId": 1,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": [],
+        "productRewardPoints": 50,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_POLO-All-Over-Lion-Print-GreyBlack.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_POLO-All-Over-Lion-Print-GreyBlack_Back.jpg"
         ],
-        "price": 84.99
+        "productPrice": 84.99
     },
     {
-        "id": 4,
-        "name": "Performance Black & Gray Zipper Polo Shirt (Classic Fit)",
-        "category": 1,
-        "collection": 1,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": [],
-        "rewards": 50,
-        "rating": 5,
-        "images": [
+        "productId": 4,
+        "productName": "Performance Black & Gray Zipper Polo Shirt (Classic Fit)",
+        "categoryId": 1,
+        "collectionId": 1,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": [],
+        "productRewardPoints": 50,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VTGrayLionPatternZipper-01.jpg",
             "https://vtmerch.com/cdn/shop/files/VTGrayLionPatternZipper-02.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-Gray-Lion-Pattern-Zipper-03.jpg"
         ],
-        "price": 84.99
+        "productPrice": 84.99
     },
     {
-        "id": 5,
-        "name": "Lion Shield Pattern Short-Sleeve Polo (Classic Fit)",
-        "category": 1,
-        "collection": 1,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": ["black", "blue"],
-        "rewards": 50,
-        "rating": 4.5,
-        "images": [
+        "productId": 5,
+        "productName": "Lion Shield Pattern Short-Sleeve Polo (Classic Fit)",
+        "categoryId": 1,
+        "collectionId": 1,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": ["black", "blue"],
+        "productRewardPoints": 50,
+        "productRating": 4.5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/Front_1.png",
             "https://vtmerch.com/cdn/shop/files/Back.png",
             "https://vtmerch.com/cdn/shop/files/681cb4f4-0cb2-4b5c-bd75-26f864293281.jpg",
@@ -85,48 +85,48 @@
             "https://vtmerch.com/cdn/shop/files/dcbed9b3-bae4-4c96-9d7f-48d58c5605ee.jpg",
             "https://vtmerch.com/cdn/shop/files/2ddf4e2f-cd8a-4699-b442-5a6cb8953eb1.jpg"
         ],
-        "price": 74.99
+        "productPrice": 74.99
     },
     {
-        "id": 6,
-        "name": "Faith Over Fear VT Hoodie",
-        "category": 1,
-        "collection": 2,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
-        "colors": [],
-        "rewards": 25,
-        "rating": 4.5,
-        "images": [
+        "productId": 6,
+        "productName": "Faith Over Fear VT Hoodie",
+        "categoryId": 1,
+        "collectionId": 2,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+        "productColors": [],
+        "productRewardPoints": 25,
+        "productRating": 4.5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/fof-sweater-back_720.png",
             "https://vtmerch.com/cdn/shop/files/fof-sweater-front_720.png"
         ],
-        "price": 54.99
+        "productPrice": 54.99
     },
     {
-        "id": 7,
-        "name": "Live Free USA Flag Hoodie",
-        "category": 1,
-        "collection": 2,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
-        "colors": [],
-        "rewards": 25,
-        "rating": 5,
-        "images": [
+        "productId": 7,
+        "productName": "Live Free USA Flag Hoodie",
+        "categoryId": 1,
+        "collectionId": 2,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+        "productColors": [],
+        "productRewardPoints": 25,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/livefree-hoodie-front_720.png",
             "https://vtmerch.com/cdn/shop/files/livefree-hoodie-back_720.png"
         ],
-        "price": 54.99
+        "productPrice": 54.99
     },
     {
-        "id": 8,
-        "name": "FLB Premium Pullover Hoodie",
-        "category": 1,
-        "collection": 2,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
-        "colors": ["white", "red"],
-        "rewards": 25,
-        "rating": 5,
-        "images": [
+        "productId": 8,
+        "productName": "FLB Premium Pullover Hoodie",
+        "categoryId": 1,
+        "collectionId": 2,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+        "productColors": ["white", "red"],
+        "productRewardPoints": 25,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch1.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch1-back.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch1-Strings.jpg",
@@ -136,136 +136,136 @@
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch7-3.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch7-4.jpg"
         ],
-        "price": 69.99
+        "productPrice": 69.99
     },
     {
-        "id": 9,
-        "name": "FLB Fully Embroidered Navy & Silver Performance Sweatshirt",
-        "category": 1,
-        "collection": 2,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": ["navy"],
-        "rewards": 25,
-        "rating": 5,
-        "images": [
+        "productId": 9,
+        "productName": "FLB Fully EmbroproductIdered Navy & Silver Performance Sweatshirt",
+        "categoryId": 1,
+        "collectionId": 2,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": ["navy"],
+        "productRewardPoints": 25,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_NewMerch_FLB-VT-SHIELD-3STACKS_NavySilver.png",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_NewMerch_FLB-VT-SHIELD-3STACKS_NavySilver_Back.png"
         ],
-        "price": 64.99
+        "productPrice": 64.99
     },
     {
-        "id": 10,
-        "name": "VT Lion Pullover Performance Hoodie",
-        "category": 1,
-        "collection": 2,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": ["black", "gray"],
-        "rewards": 25,
-        "rating": 5,
-        "images": [
+        "productId": 10,
+        "productName": "VT Lion Pullover Performance Hoodie",
+        "categoryId": 1,
+        "collectionId": 2,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": ["black", "gray"],
+        "productRewardPoints": 25,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/gold-black-lion-embossed-sweater_720.png",
             "https://vtmerch.com/cdn/shop/files/VT-Black-GoldEmboss-Hoodie-Back.png",
             "https://vtmerch.com/cdn/shop/files/silver-grey-lion-embossed-sweater_720.png",
             "https://vtmerch.com/cdn/shop/files/VT-Grey-SilverEmboss-Hoodie-Back.png"
         ],
-        "price": 69.99
+        "productPrice": 69.99
     },
     {
-        "id": 11,
-        "name": "VT Lion Embroidered Royal Blue Lightweight Wool Blazer",
-        "category": 1,
-        "collection": 3,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": [],
-        "rewards": 100,
-        "rating": 3,
-        "images": ["https://vtmerch.com/cdn/shop/files/royal-blue-lightweight-wool-blazer_720.jpg"],
-        "price": 499.99
+        "productId": 11,
+        "productName": "VT Lion EmbroproductIdered Royal Blue Lightweight Wool Blazer",
+        "categoryId": 1,
+        "collectionId": 3,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": [],
+        "productRewardPoints": 100,
+        "productRating": 3,
+        "productImages": ["https://vtmerch.com/cdn/shop/files/royal-blue-lightweight-wool-blazer_720.jpg"],
+        "productPrice": 499.99
     },
     {
-        "id": 12,
-        "name": "VT Sky Blue Long-Sleeve Button-Down Shirt (Classic Fit)",
-        "category": 1,
-        "collection": 3,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": [],
-        "rewards": 75,
-        "rating": 5,
-        "images": ["https://vtmerch.com/cdn/shop/files/long_sleeve_button_down_shirt_blue_720.png"],
-        "price": 99.99
+        "productId": 12,
+        "productName": "VT Sky Blue Long-Sleeve Button-Down Shirt (Classic Fit)",
+        "categoryId": 1,
+        "collectionId": 3,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": [],
+        "productRewardPoints": 75,
+        "productRating": 5,
+        "productImages": ["https://vtmerch.com/cdn/shop/files/long_sleeve_button_down_shirt_blue_720.png"],
+        "productPrice": 99.99
     },
     {
-        "id": 13,
-        "name": "VT Black Long-Sleeve Button-Down Shirt (Classic Fit)",
-        "category": 1,
-        "collection": 3,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": [],
-        "rewards": 75,
-        "rating": 4,
-        "images": ["https://vtmerch.com/cdn/shop/files/long_sleeve_button_down_shirt_black_720.png"],
-        "price": 99.99
+        "productId": 13,
+        "productName": "VT Black Long-Sleeve Button-Down Shirt (Classic Fit)",
+        "categoryId": 1,
+        "collectionId": 3,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": [],
+        "productRewardPoints": 75,
+        "productRating": 4,
+        "productImages": ["https://vtmerch.com/cdn/shop/files/long_sleeve_button_down_shirt_black_720.png"],
+        "productPrice": 99.99
     },
     {
-        "id": 14,
-        "name": "VT Solid White Long-Sleeve Button-Down Shirt (Classic Fit)",
-        "category": 1,
-        "collection": 3,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": [],
-        "rewards": 75,
-        "rating": 4,
-        "images": [
+        "productId": 14,
+        "productName": "VT SolproductId White Long-Sleeve Button-Down Shirt (Classic Fit)",
+        "categoryId": 1,
+        "collectionId": 3,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": [],
+        "productRewardPoints": 75,
+        "productRating": 4,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-White-Dress-Shirt-01.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-White-Dress-Shirt-02.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-White-Dress-Shirt-04.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-White-Dress-Shirt-03.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-White-Dress-Shirt-05.jpg"
         ],
-        "price": 99.99
+        "productPrice": 99.99
     },
     {
-        "id": 15,
-        "name": "FLB Premium Italian Leather Shoes",
-        "category": 1,
-        "collection": 3,
-        "sizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "13"],
-        "colors": ["brown", "black", "white", "navy"],
-        "rewards": 100,
-        "rating": 4.5,
-        "images": [
+        "productId": 15,
+        "productName": "FLB Premium Italian Leather Shoes",
+        "categoryId": 1,
+        "collectionId": 3,
+        "productSizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "13"],
+        "productColors": ["brown", "black", "white", "navy"],
+        "productRewardPoints": 100,
+        "productRating": 4.5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-Shoe-Brown-01_9337cea8-a82e-425e-9dab-3885931942e7.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-Shoe-Black-01.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-Shoe-White-01.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-Shoe-Blue-01.jpg"
         ],
-        "price": 599.99
+        "productPrice": 599.99
     },
     {
-        "id": 16,
-        "name": "Charcoal Gray Performance Long-Sleeve Shirt",
-        "category": 1,
-        "collection": 4,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": [],
-        "rewards": 10,
-        "rating": 5,
-        "images": [
+        "productId": 16,
+        "productName": "Charcoal Gray Performance Long-Sleeve Shirt",
+        "categoryId": 1,
+        "collectionId": 4,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_LS-All-Over-Lion-Print-BlackGrey.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_LS-All-Over-Lion-Print-BlackGrey_Back.jpg"
         ],
-        "price": 54.99
+        "productPrice": 54.99
     },
     {
-        "id": 17,
-        "name": "FLB Performance Short-Sleeve Shirt",
-        "category": 1,
-        "collection": 4,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": ["gray", "green", "navy", "white", "black"],
-        "rewards": 10,
-        "rating": 5,
-        "images": [
+        "productId": 17,
+        "productName": "FLB Performance Short-Sleeve Shirt",
+        "categoryId": 1,
+        "collectionId": 4,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": ["gray", "green", "navy", "white", "black"],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shirt5.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shirt5-back.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shirt2.jpg",
@@ -277,56 +277,56 @@
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shirt3.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shirt3-back.jpg"
         ],
-        "price": 39.99
+        "productPrice": 39.99
     },
     {
-        "id": 18,
-        "name": "VT Premium Performance Compression Shorts",
-        "category": 1,
-        "collection": 4,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": ["gray", "green", "navy"],
-        "rewards": 10,
-        "rating": 5,
-        "images": [
+        "productId": 18,
+        "productName": "VT Premium Performance Compression Shorts",
+        "categoryId": 1,
+        "collectionId": 4,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": ["gray", "green", "navy"],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shorts1.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shorts-lining2.jpg",
-            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shorts1-side.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shorts1-sproductIde.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shorts2.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shorts-Lining.jpg",
-            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shorts2-side.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shorts2-sproductIde.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shorts3.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shorts-lining3.jpg",
-            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shorts3-side.jpg"
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shorts3-sproductIde.jpg"
         ],
-        "price": 44.99
+        "productPrice": 44.99
     },
     {
-        "id": 19,
-        "name": "VT Black & Red Pullover Performance Hoodie",
-        "category": 1,
-        "collection": 4,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": [],
-        "rewards": 10,
-        "rating": 5,
-        "images": [
+        "productId": 19,
+        "productName": "VT Black & Red Pullover Performance Hoodie",
+        "categoryId": 1,
+        "collectionId": 4,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch3.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch3-back.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch3-frontdetail.jpg"
         ],
-        "price": 69.99
+        "productPrice": 69.99
     },
     {
-        "id": 20,
-        "name": "FLB Premium Jogger Pants",
-        "category": 1,
-        "collection": 4,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": ["white", "red"],
-        "rewards": 10,
-        "rating": 5,
-        "images": [
+        "productId": 20,
+        "productName": "FLB Premium Jogger Pants",
+        "categoryId": 1,
+        "collectionId": 4,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": ["white", "red"],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch2_08a55ad9-b953-44f6-847d-6d6b31b93668.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch2-back_5b8f1e91-8cdc-4a12-af97-b91ae4c5fdc6.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch2-strings_ff4d1c69-4b55-4818-a6cc-bb0bc43da272.jpg",
@@ -335,18 +335,18 @@
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch8-back.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch5-strings.jpg"
         ],
-        "price": 59.99
+        "productPrice": 59.99
     },
     {
-        "id": 21,
-        "name": "Lion Shield Performance Short-Sleeve Polo",
-        "category": 2,
-        "collection": 1,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": ["black", "pink", "cream", "brown", "blue"],
-        "rewards": 50,
-        "rating": 4.5,
-        "images": [
+        "productId": 21,
+        "productName": "Lion Shield Performance Short-Sleeve Polo",
+        "categoryId": 2,
+        "collectionId": 1,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": ["black", "pink", "cream", "brown", "blue"],
+        "productRewardPoints": 50,
+        "productRating": 4.5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Merch2.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Merch2-back.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Merch4_1c8fdc5b-3759-4bdf-8f53-740723b1ee0d.jpg",
@@ -358,63 +358,63 @@
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Merch6_7d17bd6d-c1d8-4fbd-bbd6-f0846be28679.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Merch6-back_10a49d39-1399-4fb7-b051-77e0fa3c33ba.jpg"
         ],
-        "price": 69.99
+        "productPrice": 69.99
     },
     {
-        "id": 22,
-        "name": "Lion Shield Charcoal Gray Pattern Short-Sleeve Polo",
-        "category": 2,
-        "collection": 1,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": [],
-        "rewards": 50,
-        "rating": 5,
-        "images": [
+        "productId": 22,
+        "productName": "Lion Shield Charcoal Gray Pattern Short-Sleeve Polo",
+        "categoryId": 2,
+        "collectionId": 1,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": [],
+        "productRewardPoints": 50,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Merch1_f79d3909-48ea-4fec-80b1-31b116ed2743.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Merch1-back.jpg"
         ],
-        "price": 69.99
+        "productPrice": 69.99
     },
     {
-        "id": 23,
-        "name": "FLB Bright Heart VT Mom Short-Sleeve Tee",
-        "category": 2,
-        "collection": 1,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": [],
-        "rewards": 10,
-        "rating": 5,
-        "images": [
+        "productId": 23,
+        "productName": "FLB Bright Heart VT Mom Short-Sleeve Tee",
+        "categoryId": 2,
+        "collectionId": 1,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Merch1_f79d3909-48ea-4fec-80b1-31b116ed2743.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Merch1-back.jpg"
         ],
-        "price": 34.99
+        "productPrice": 34.99
     },
     {
-        "id": 24,
-        "name": "FLB Bright Heart VT Mom Era Short-Sleeve Tee",
-        "category": 2,
-        "collection": 1,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": [],
-        "rewards": 10,
-        "rating": 4,
-        "images": [
+        "productId": 24,
+        "productName": "FLB Bright Heart VT Mom Era Short-Sleeve Tee",
+        "categoryId": 2,
+        "collectionId": 1,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 4,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_MothersDay2025_Merch2.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_MothersDay2025_Merch2_Back.jpg"
         ],
-        "price": 29.99
+        "productPrice": 29.99
     },
     {
-        "id": 25,
-        "name": "PBD Podcast Short-Sleeve Tee",
-        "category": 2,
-        "collection": 1,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": ["pink", "white", "black"],
-        "rewards": 10,
-        "rating": 5,
-        "images": [
+        "productId": 25,
+        "productName": "PBD Podcast Short-Sleeve Tee",
+        "categoryId": 2,
+        "collectionId": 1,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": ["pink", "white", "black"],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/3bceb383-bdae-4bfb-a4c3-d57264f3f346.jpg",
             "https://vtmerch.com/cdn/shop/files/6d99f812-6674-48c8-8e80-cf79c438dfbc.jpg",
             "https://vtmerch.com/cdn/shop/files/pbd_white_top_900x900_front_720.jpg",
@@ -422,65 +422,65 @@
             "https://vtmerch.com/cdn/shop/files/pbd_black_top_900x900_front_v6_black.jpg",
             "https://vtmerch.com/cdn/shop/files/pbd_black_top_900x900_back_v5_black.jpg"
         ],
-        "price": 24.99
+        "productPrice": 24.99
     },
     {
-        "id": 26,
-        "name": "VT Performance CrewNeck Sweatshirt",
-        "category": 2,
-        "collection": 2,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": ["pink", "gray"],
-        "rewards": 25,
-        "rating": 3.5,
-        "images": [
+        "productId": 26,
+        "productName": "VT Performance CrewNeck Sweatshirt",
+        "categoryId": 2,
+        "collectionId": 2,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": ["pink", "gray"],
+        "productRewardPoints": 25,
+        "productRating": 3.5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Women-Sweatshirt.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Women-Sweatshirt_Back.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-Black-Rhinestone-Sweater-Womens-Front.png",
             "https://vtmerch.com/cdn/shop/files/Womens-Rhinestone-Silver-Dark-Grey-Valuetainment-Performance-Crewneck-Sweatshirt---Back.jpg"
         ],
-        "price": 64.99
+        "productPrice": 64.99
     },
     {
-        "id": 27,
-        "name": "FLB Bright Lilac VT Mama Sweatshirt",
-        "category": 2,
-        "collection": 2,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": [],
-        "rewards": 25,
-        "rating": 5,
-        "images": [
+        "productId": 27,
+        "productName": "FLB Bright Lilac VT Mama Sweatshirt",
+        "categoryId": 2,
+        "collectionId": 2,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": [],
+        "productRewardPoints": 25,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_MothersDay2025_Merch5.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_MothersDay2025_Merch5_Back.jpg"
         ],
-        "price": 54.99
+        "productPrice": 54.99
     },
     {
-        "id": 28,
-        "name": "FLB Periwinkle Tough As a VT Mother Sweatshirt",
-        "category": 2,
-        "collection": 2,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": [],
-        "rewards": 25,
-        "rating": 4.5,
-        "images": [
+        "productId": 28,
+        "productName": "FLB Periwinkle Tough As a VT Mother Sweatshirt",
+        "categoryId": 2,
+        "collectionId": 2,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": [],
+        "productRewardPoints": 25,
+        "productRating": 4.5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_MothersDay2025_Merch6.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_MothersDay2025_Merch6_Back.jpg"
         ],
-        "price": 49.99
+        "productPrice": 49.99
     },
     {
-        "id": 29,
-        "name": "VT Performance CrewNeck Sweatshirt",
-        "category": 2,
-        "collection": 2,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": ["brown", "gray", "red"],
-        "rewards": 25,
-        "rating": 4,
-        "images": [
+        "productId": 29,
+        "productName": "VT Performance CrewNeck Sweatshirt",
+        "categoryId": 2,
+        "collectionId": 2,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": ["brown", "gray", "red"],
+        "productRewardPoints": 25,
+        "productRating": 4,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-Maroon-SilverEmboss-Sweater-Front_e73523e5-3ceb-4576-a270-d9b32cf96307.png",
             "https://vtmerch.com/cdn/shop/files/VT-Maroon-SilverEmboss-Sweater-Back_f2ab6915-4bfa-44ea-a6e0-31fb11564239.png",
             "https://vtmerch.com/cdn/shop/files/VT-Heather-Grey-SilverEmboss-Sweater-Front_d60c0219-9ba0-4e06-a31b-0039cb004490.png",
@@ -488,95 +488,95 @@
             "https://vtmerch.com/cdn/shop/files/VT-Red-SilverEmboss-Sweater-Front.png",
             "https://vtmerch.com/cdn/shop/files/VTRed-SilverEmboss-Sweater-Back.png"
         ],
-        "price": 64.99
+        "productPrice": 64.99
     },
     {
-        "id": 30,
-        "name": "FLB Army Green Strappy Sports Bra",
-        "category": 2,
-        "collection": 3,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": [],
-        "rewards": 10,
-        "rating": 5,
-        "images": [
+        "productId": 30,
+        "productName": "FLB Army Green Strappy Sports Bra",
+        "categoryId": 2,
+        "collectionId": 3,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_SportsBra4_4a0e2a51-7e06-4330-a113-1590c6d89428.jpg"
         ],
-        "price": 29.99
+        "productPrice": 29.99
     },
     {
-        "id": 31,
-        "name": "FLB Army Green Performance Leggings",
-        "category": 2,
-        "collection": 3,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": [],
-        "rewards": 10,
-        "rating": 5,
-        "images": [
+        "productId": 31,
+        "productName": "FLB Army Green Performance Leggings",
+        "categoryId": 2,
+        "collectionId": 3,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Leggings4_3db9c9bd-5eac-4154-a52b-1af81f97b3dc.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Leggings4-back_92aaa2cb-062e-492b-a8a4-8748c37f1c88.jpg"
         ],
-        "price": 44.99
+        "productPrice": 44.99
     },
     {
-        "id": 32,
-        "name": "Lion Shield Charcoal Gray Pattern Performance Midi Tank",
-        "category": 2,
-        "collection": 3,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": [],
-        "rewards": 10,
-        "rating": 5,
-        "images": [
+        "productId": 32,
+        "productName": "Lion Shield Charcoal Gray Pattern Performance MproductIdi Tank",
+        "categoryId": 2,
+        "collectionId": 3,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Tank1.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_Tank1-back_626c302d-2ba4-4108-b84e-52265847f715.jpg"
         ],
-        "price": 39.99
+        "productPrice": 39.99
     },
     {
-        "id": 33,
-        "name": "FLB Charcoal Gray Pattern Biker Shorts",
-        "category": 2,
-        "collection": 3,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": [],
-        "rewards": 10,
-        "rating": 4,
-        "images": [
+        "productId": 33,
+        "productName": "FLB Charcoal Gray Pattern Biker Shorts",
+        "categoryId": 2,
+        "collectionId": 3,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 4,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_BikeShorts1.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_WITH_BikeShorts1-back.jpg"
         ],
-        "price": 39.99
+        "productPrice": 39.99
     },
     {
-        "id": 34,
-        "name": "VT Black Full Zip-Up Jacket",
-        "category": 2,
-        "collection": 3,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": [],
-        "rewards": 10,
-        "rating": 5,
-        "images": [
+        "productId": 34,
+        "productName": "VT Black Full Zip-Up Jacket",
+        "categoryId": 2,
+        "collectionId": 3,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch4.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch4-back.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch4-handdetail.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch4-vt.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Merch4-zipper.jpg"
         ],
-        "price": 54.99
+        "productPrice": 54.99
     },
     {
-        "id": 35,
-        "name": "FLB Velcro Performance Hat",
-        "category": 2,
-        "collection": 4,
-        "sizes": [],
-        "colors": ["white", "yellow", "cyan", "pink", "gray", "brown", "purple"],
-        "rewards": 10,
-        "rating": 4.5,
-        "images": [
+        "productId": 35,
+        "productName": "FLB Velcro Performance Hat",
+        "categoryId": 2,
+        "collectionId": 4,
+        "productSizes": [],
+        "productColors": ["white", "yellow", "cyan", "pink", "gray", "brown", "purple"],
+        "productRewardPoints": 10,
+        "productRating": 4.5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats21.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats21-6.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats28.jpg",
@@ -592,18 +592,18 @@
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats25.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats25-7.jpg"
         ],
-        "price": 34.99
+        "productPrice": 34.99
     },
     {
-        "id": 36,
-        "name": "FLB Velcro Performance Perforated Hat",
-        "category": 2,
-        "collection": 4,
-        "sizes": [],
-        "colors": ["white", "red", "navy", "blue"],
-        "rewards": 10,
-        "rating": 5,
-        "images": [
+        "productId": 36,
+        "productName": "FLB Velcro Performance Perforated Hat",
+        "categoryId": 2,
+        "collectionId": 4,
+        "productSizes": [],
+        "productColors": ["white", "red", "navy", "blue"],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats15.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats15-3.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats16.jpg",
@@ -613,129 +613,129 @@
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats13.jpg",
             "https://vtmerch.com/cdn/shop/files/SR24F084_25_Pewtergrey_Blue_3_07204522-4e83-4f6f-bd01-8ba654777baf.jpg"
         ],
-        "price": 34.99
+        "productPrice": 34.99
     },
     {
-        "id": 37,
-        "name": "FLB Pink Snapback Hat",
-        "category": 2,
-        "collection": 4,
-        "sizes": [],
-        "colors": [],
-        "rewards": 10,
-        "rating": 5,
-        "images": [
+        "productId": 37,
+        "productName": "FLB Pink Snapback Hat",
+        "categoryId": 2,
+        "collectionId": 4,
+        "productSizes": [],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/Women_s-VT-Shield-Logo-Future-Looks-Bright-Light-Pink-Snapback-Hat-01_86b7803e-015c-4f3c-bc08-e07fdf29893f.jpg",
             "https://vtmerch.com/cdn/shop/files/Women_s-VT-Shield-Logo-Future-Looks-Bright-Light-Pink-Snapback-Hat-02_c6814434-2be3-43b1-99ee-2d4af63d6a2a.jpg",
             "https://vtmerch.com/cdn/shop/files/Women_s-VT-Shield-Logo-Future-Looks-Bright-Light-Pink-Snapback-Hat-04_ea298684-fc87-48aa-8b43-2451d647ca77.jpg",
             "https://vtmerch.com/cdn/shop/files/Women_s-VT-Shield-Logo-Future-Looks-Bright-Light-Pink-Snapback-Hat-06_4654228a-4620-4870-82a5-f0d0b8208f16.jpg"
         ],
-        "price": 14.99
+        "productPrice": 14.99
     },
     {
-        "id": 38,
-        "name": "FLB VT Mom White & Denim Dual Tone Snapback Hat",
-        "category": 2,
-        "collection": 4,
-        "sizes": [],
-        "colors": [],
-        "rewards": 10,
-        "rating": 5,
-        "images": [
+        "productId": 38,
+        "productName": "FLB VT Mom White & Denim Dual Tone Snapback Hat",
+        "categoryId": 2,
+        "collectionId": 4,
+        "productSizes": [],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats29.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats29-3.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats29-6.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats29-7.jpg"
         ],
-        "price": 34.99
+        "productPrice": 34.99
     },
     {
-        "id": 39,
-        "name": "FLB Pink & White Snapback Hat",
-        "category": 2,
-        "collection": 4,
-        "sizes": [],
-        "colors": [],
-        "rewards": 10,
-        "rating": 5,
-        "images": [
+        "productId": 39,
+        "productName": "FLB Pink & White Snapback Hat",
+        "categoryId": 2,
+        "collectionId": 4,
+        "productSizes": [],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/Women_s-VT-Shield-Logo-Future-Looks-Bright-Pink-_-White-Snapback-Hat-01.jpg",
             "https://vtmerch.com/cdn/shop/files/Women_s-VT-Shield-Logo-Future-Looks-Bright-Pink-_-White-Snapback-Hat-02.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats69.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats69-3.jpg"
         ],
-        "price": 19.99
+        "productPrice": 19.99
     },
     {
-        "id": 40,
-        "name": "USA Live Free Black Short-Sleeve Tee",
-        "category": 3,
-        "collection": 1,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": [],
-        "rewards": 10,
-        "rating": 4,
-        "images": [
+        "productId": 40,
+        "productName": "USA Live Free Black Short-Sleeve Tee",
+        "categoryId": 3,
+        "collectionId": 1,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 4,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/live-free-black-1-Front.png",
             "https://vtmerch.com/cdn/shop/files/live-free-black-2-Back_a2f88c7a-63c6-4187-9bf2-06152c6ae510.png"
         ],
-        "price": 34.99
+        "productPrice": 34.99
     },
     {
-        "id": 41,
-        "name": "USA FLB Black Short-Sleeve Tee",
-        "category": 3,
-        "collection": 1,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": [],
-        "rewards": 10,
-        "rating": 3.5,
-        "images": [
+        "productId": 41,
+        "productName": "USA FLB Black Short-Sleeve Tee",
+        "categoryId": 3,
+        "collectionId": 1,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 3.5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/live-free-black-2-Front.png",
             "https://vtmerch.com/cdn/shop/files/live-free-black-2-Back.png"
         ],
-        "price": 34.99
+        "productPrice": 34.99
     },
     {
-        "id": 42,
-        "name": "USA FLB Bright White Short-Sleeve Tee",
-        "category": 3,
-        "collection": 1,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": [],
-        "rewards": 10,
-        "rating": 5,
-        "images": [
+        "productId": 42,
+        "productName": "USA FLB Bright White Short-Sleeve Tee",
+        "categoryId": 3,
+        "collectionId": 1,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/live-free-white-1-Front.png",
             "https://vtmerch.com/cdn/shop/files/live-free-White-1-Back.png"
         ],
-        "price": 34.99
+        "productPrice": 34.99
     },
     {
-        "id": 43,
-        "name": "VT Black & Gray Performance Short-Sleeve Tee",
-        "category": 3,
-        "collection": 1,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": [],
-        "rewards": 10,
-        "rating": 4.5,
-        "images": [
+        "productId": 43,
+        "productName": "VT Black & Gray Performance Short-Sleeve Tee",
+        "categoryId": 3,
+        "collectionId": 1,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 4.5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_NewMerch_VT-FLAG_Black.png",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_NewMerch_VT-FLAG_Black_Back.png"
         ],
-        "price": 24.99
+        "productPrice": 24.99
     },
     {
-        "id": 44,
-        "name": "Team America VT Short-Sleeve Tee (Slim-Fit)",
-        "category": 3,
-        "collection": 1,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": ["white", "blue", "gray"],
-        "rewards": 10,
-        "rating": 4.5,
-        "images": [
+        "productId": 44,
+        "productName": "Team America VT Short-Sleeve Tee (Slim-Fit)",
+        "categoryId": 3,
+        "collectionId": 1,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": ["white", "blue", "gray"],
+        "productRewardPoints": 10,
+        "productRating": 4.5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/Valuetainment-TeamAmericaRetro-AVN6010-T-Shirt-White-Front.jpg",
             "https://vtmerch.com/cdn/shop/files/Valuetainment-TeamAmericaRetro-AVN6010-T-Shirt-White-Back.jpg",
             "https://vtmerch.com/cdn/shop/files/Valuetainment-TeamAmericaRetro-AVN6010-T-Shirt-LegionBlue-Front.jpg",
@@ -743,171 +743,171 @@
             "https://vtmerch.com/cdn/shop/files/Valuetainment-TeamAmericaRetro-AVN6010-T-Shirt-VintageHeavyMetal-Front.jpg",
             "https://vtmerch.com/cdn/shop/files/Valuetainment-TeamAmericaRetro-AVN6010-T-Shirt-VintageHeavyMetal-Back.jpg"
         ],
-        "price": 29.99
+        "productPrice": 29.99
     },
     {
-        "id": 45,
-        "name": "FLB Black Star Flag Hoodie",
-        "category": 3,
-        "collection": 2,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
-        "colors": [],
-        "rewards": 25,
-        "rating": 5,
-        "images": [
-            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_PresidentsDay_Hoodie_FLBShield_Black.png",
-            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_PresidentsDay_Hoodie_FLBShield_Black_Back.png"
+        "productId": 45,
+        "productName": "FLB Black Star Flag Hoodie",
+        "categoryId": 3,
+        "collectionId": 2,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
+        "productColors": [],
+        "productRewardPoints": 25,
+        "productRating": 5,
+        "productImages": [
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_PresproductIdentsDay_Hoodie_FLBShield_Black.png",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_PresproductIdentsDay_Hoodie_FLBShield_Black_Back.png"
         ],
-        "price": 54.99
+        "productPrice": 54.99
     },
     {
-        "id": 46,
-        "name": "Angry Patriot Black Long-Sleeve Lightweight Hoodie",
-        "category": 3,
-        "collection": 2,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": ["black", "gray"],
-        "rewards": 25,
-        "rating": 4.5,
-        "images": [
+        "productId": 46,
+        "productName": "Angry Patriot Black Long-Sleeve Lightweight Hoodie",
+        "categoryId": 3,
+        "collectionId": 2,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": ["black", "gray"],
+        "productRewardPoints": 25,
+        "productRating": 4.5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/ap-longsleeve-black_720.png",
             "https://vtmerch.com/cdn/shop/files/884a35b8-8d3a-4ac0-8e11-27307f66894c.jpg",
             "https://vtmerch.com/cdn/shop/files/4b0859d0-8468-400b-860b-6800b953e228.jpg",
             "https://vtmerch.com/cdn/shop/files/6de40612-e233-4bb3-bab7-00fbe37cee02.jpg"
         ],
-        "price": 19.99
+        "productPrice": 19.99
     },
     {
-        "id": 47,
-        "name": "Allegedly Black Long-Sleeve Lightweight Performance Hoodie",
-        "category": 3,
-        "collection": 2,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": [],
-        "rewards": 25,
-        "rating": 4.5,
-        "images": ["https://vtmerch.com/cdn/shop/files/allegedly-longsleeve-black_720.png"],
-        "price": 19.99
+        "productId": 47,
+        "productName": "Allegedly Black Long-Sleeve Lightweight Performance Hoodie",
+        "categoryId": 3,
+        "collectionId": 2,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": [],
+        "productRewardPoints": 25,
+        "productRating": 4.5,
+        "productImages": ["https://vtmerch.com/cdn/shop/files/allegedly-longsleeve-black_720.png"],
+        "productPrice": 19.99
     },
     {
-        "id": 48,
-        "name": "FLB California State Black Hoodie",
-        "category": 3,
-        "collection": 2,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": [],
-        "rewards": 25,
-        "rating": 5,
-        "images": ["https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_States-Hoodies3.jpg"],
-        "price": 54.99
+        "productId": 48,
+        "productName": "FLB California State Black Hoodie",
+        "categoryId": 3,
+        "collectionId": 2,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": [],
+        "productRewardPoints": 25,
+        "productRating": 5,
+        "productImages": ["https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_States-Hoodies3.jpg"],
+        "productPrice": 54.99
     },
     {
-        "id": 49,
-        "name": "FLB Florida State Black Hoodie",
-        "category": 3,
-        "collection": 2,
-        "sizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "colors": [],
-        "rewards": 25,
-        "rating": 5,
-        "images": ["https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_States-Hoodies2.jpg"],
-        "price": 54.99
+        "productId": 49,
+        "productName": "FLB FlorproductIda State Black Hoodie",
+        "categoryId": 3,
+        "collectionId": 2,
+        "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
+        "productColors": [],
+        "productRewardPoints": 25,
+        "productRating": 5,
+        "productImages": ["https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_States-Hoodies2.jpg"],
+        "productPrice": 54.99
     },
     {
-        "id": 50,
-        "name": "USA Retro FLB White Snapback Hat",
-        "category": 3,
-        "collection": 2,
-        "sizes": [],
-        "colors": [],
-        "rewards": 10,
-        "rating": 5,
-        "images": [
+        "productId": 50,
+        "productName": "USA Retro FLB White Snapback Hat",
+        "categoryId": 3,
+        "collectionId": 2,
+        "productSizes": [],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-FLB-_USA_-Flag-Snapback-Hat-01.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats64-2.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats64-3.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats64-6.jpg"
         ],
-        "price": 34.99
+        "productPrice": 34.99
     },
     {
-        "id": 51,
-        "name": "VT FLB White Performance Snapback Hat",
-        "category": 3,
-        "collection": 2,
-        "sizes": [],
-        "colors": [],
-        "rewards": 10,
-        "rating": 4.5,
-        "images": [
+        "productId": 51,
+        "productName": "VT FLB White Performance Snapback Hat",
+        "categoryId": 3,
+        "collectionId": 2,
+        "productSizes": [],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 4.5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats49.jpg",
             "https://vtmerch.com/cdn/shop/files/Peformancehat-white_whiterope_4.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats49-3.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats49-4.jpg"
         ],
-        "price": 34.99
+        "productPrice": 34.99
     },
     {
-        "id": 52,
-        "name": "FLB USA Flag Navy Snapback Hat",
-        "category": 3,
-        "collection": 2,
-        "sizes": [],
-        "colors": [],
-        "rewards": 10,
-        "rating": 5,
-        "images": [
+        "productId": 52,
+        "productName": "FLB USA Flag Navy Snapback Hat",
+        "categoryId": 3,
+        "collectionId": 2,
+        "productSizes": [],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats53-5.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats53.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats53-2.jpg",
             "https://vtmerch.com/cdn/shop/files/FLB-Navy-USA-Flag-Hat-08_15c904a2-62a6-45a8-a438-b42311167f65.jpg"
         ],
-        "price": 34.99
+        "productPrice": 34.99
     },
     {
-        "id": 53,
-        "name": "USA Retro FLB Camouflage Snapback Hat",
-        "category": 3,
-        "collection": 2,
-        "sizes": [],
-        "colors": [],
-        "rewards": 10,
-        "rating": 5,
-        "images": [
+        "productId": 53,
+        "productName": "USA Retro FLB Camouflage Snapback Hat",
+        "categoryId": 3,
+        "collectionId": 2,
+        "productSizes": [],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats51.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats51-2.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats51-4.jpg",
             "https://vtmerch.com/cdn/shop/files/90a5e3b6-78fe-4d00-ac71-458bf36bae84.jpg"
         ],
-        "price": 19.99
+        "productPrice": 19.99
     },
     {
-        "id": 54,
-        "name": "VT FLB Gray Digital Camouflage Snapback Hat",
-        "category": 3,
-        "collection": 2,
-        "sizes": [],
-        "colors": [],
-        "rewards": 10,
-        "rating": 5,
-        "images": [
+        "productId": 54,
+        "productName": "VT FLB Gray Digital Camouflage Snapback Hat",
+        "categoryId": 3,
+        "collectionId": 2,
+        "productSizes": [],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/94a2a96f-4093-4c30-b8b1-5e1ac87e4ff5.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats58-4.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats58-5.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Hats58-6.jpg"
         ],
-        "price": 19.99
+        "productPrice": 19.99
     },
     {
-        "id": 55,
-        "name": "VT Wallet-Keychain Set",
-        "category": 4,
-        "collection": 1,
-        "sizes": [],
-        "colors": ["black", "brown", "gray"],
-        "rewards": 10,
-        "rating": 4.5,
-        "images": [
+        "productId": 55,
+        "productName": "VT Wallet-Keychain Set",
+        "categoryId": 4,
+        "collectionId": 1,
+        "productSizes": [],
+        "productColors": ["black", "brown", "gray"],
+        "productRewardPoints": 10,
+        "productRating": 4.5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/10.jpg",
             "https://vtmerch.com/cdn/shop/files/7.jpg",
             "https://vtmerch.com/cdn/shop/files/8.jpg",
@@ -921,18 +921,18 @@
             "https://vtmerch.com/cdn/shop/files/4_56746ba0-ee7a-4594-94b1-ae8857b5a503.jpg",
             "https://vtmerch.com/cdn/shop/files/6_30f4ca62-141f-4b1f-8ff6-0f5f430c4a50.jpg"
         ],
-        "price": 39.99
+        "productPrice": 39.99
     },
     {
-        "id": 56,
-        "name": "FLB Leather RFID Credit Card Holder",
-        "category": 4,
-        "collection": 1,
-        "sizes": [],
-        "colors": ["blue", "brown", "black", "red"],
-        "rewards": 10,
-        "rating": 3.5,
-        "images": [
+        "productId": 56,
+        "productName": "FLB Leather RFproductId Credit Card Holder",
+        "categoryId": 4,
+        "collectionId": 1,
+        "productSizes": [],
+        "productColors": ["blue", "brown", "black", "red"],
+        "productRewardPoints": 10,
+        "productRating": 3.5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Cardholders_Merch2.jpg",
             "https://vtmerch.com/cdn/shop/files/Back_6f820b0d-0deb-4fbf-a5ee-d4ff678ed7e1.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Cardholders_Merch1.jpg",
@@ -942,18 +942,18 @@
             "https://vtmerch.com/cdn/shop/files/Front_c7e242d0-83bf-4cbd-88bb-c73f38c90558.jpg",
             "https://vtmerch.com/cdn/shop/files/Back_bcbf383b-bbbc-43d5-a6f9-a11553845197.jpg"
         ],
-        "price": 19.99
+        "productPrice": 19.99
     },
     {
-        "id": 57,
-        "name": "VT Premium Leather Fold Wallet",
-        "category": 4,
-        "collection": 1,
-        "sizes": [],
-        "colors": ["brown", "black"],
-        "rewards": 10,
-        "rating": 4.5,
-        "images": [
+        "productId": 57,
+        "productName": "VT Premium Leather Fold Wallet",
+        "categoryId": 4,
+        "collectionId": 1,
+        "productSizes": [],
+        "productColors": ["brown", "black"],
+        "productRewardPoints": 10,
+        "productRating": 4.5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT_Brown_Wallet-01_33455cb4-68ce-4435-afa1-d52497bc2e39.jpg",
             "https://vtmerch.com/cdn/shop/files/VT_Brown_Wallet-03_b46e6a9a-2ca6-46c8-8163-d52e5e2f1bbf.jpg",
             "https://vtmerch.com/cdn/shop/files/VT_Brown_Wallet-04_5555f6a6-fcc2-447a-a749-cac01cb1419c.jpg",
@@ -961,232 +961,234 @@
             "https://vtmerch.com/cdn/shop/files/VT_Black_Wallet-03.jpg",
             "https://vtmerch.com/cdn/shop/files/VT_Black_Wallet-04.jpg"
         ],
-        "price": 34.99
+        "productPrice": 34.99
     },
     {
-        "id": 58,
-        "name": "VT Black Leather RFID Credit Card Holder",
-        "category": 4,
-        "collection": 1,
-        "sizes": [],
-        "colors": [],
-        "rewards": 10,
-        "rating": 3.5,
-        "images": ["https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Cardholders1.jpg"],
-        "price": 19.99
+        "productId": 58,
+        "productName": "VT Black Leather RFproductId Credit Card Holder",
+        "categoryId": 4,
+        "collectionId": 1,
+        "productSizes": [],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 3.5,
+        "productImages": ["https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Cardholders1.jpg"],
+        "productPrice": 19.99
     },
     {
-        "id": 59,
-        "name": "VT Lion Crest Primary Motive Slides",
-        "category": 4,
-        "collection": 2,
-        "sizes": [],
-        "colors": [],
-        "rewards": 10,
-        "rating": 3,
-        "images": [
+        "productId": 59,
+        "productName": "VT Lion Crest Primary Motive SlproductIdes",
+        "categoryId": 4,
+        "collectionId": 2,
+        "productSizes": [],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 3,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/Valuetainment_LionCrest_BlackMotive_050225_TopMock_020a81c5-ad82-4ed6-aae8-3122f1d762ac.png",
-            "https://vtmerch.com/cdn/shop/files/Valuetainment_LionCrest_BlackMotive_050225_SideMock_4d4d2764-dad3-474a-a0aa-eeee2471a779.png"
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_LionCrest_BlackMotive_050225_SproductIdeMock_4d4d2764-dad3-474a-a0aa-eeee2471a779.png"
         ],
-        "price": 60
+        "productPrice": 60
     },
     {
-        "id": 59,
-        "name": "VT Patriotic Gray Camouflage Comfort Slides",
-        "category": 4,
-        "collection": 2,
-        "sizes": ["7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17"],
-        "colors": [],
-        "rewards": 10,
-        "rating": 5,
-        "images": [
+        "productId": 59,
+        "productName": "VT Patriotic Gray Camouflage Comfort SlproductIdes",
+        "categoryId": 4,
+        "collectionId": 2,
+        "productSizes": ["7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17"],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/Valuetainment_Flag_UrbanCamo_Grey_TopMock_030325.png",
             "https://vtmerch.com/cdn/shop/files/Valuetainment_Flag_UrbanCamo_Grey_AngledMock_030325.png",
-            "https://vtmerch.com/cdn/shop/files/Valuetainment_Flag_UrbanCamo_Grey_SideMock_030325.png"
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_Flag_UrbanCamo_Grey_SproductIdeMock_030325.png"
         ],
-        "price": 55
+        "productPrice": 55
     },
     {
-        "id": 60,
-        "name": "FLB Charcoal Gray Pattern Comfort Slides",
-        "category": 4,
-        "collection": 2,
-        "sizes": ["7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17"],
-        "colors": [],
-        "rewards": 10,
-        "rating": 5,
-        "images": [
-            "https://vtmerch.com/cdn/shop/files/Valuetainment_LionPattern_WSides_Black_TopMock_032825.png",
-            "https://vtmerch.com/cdn/shop/files/Valuetainment_LionPattern_WSides_Black_AngledMock_032825.png",
-            "https://vtmerch.com/cdn/shop/files/Valuetainment_LionPattern_WSides_Black_SideMock_032825.png"
+        "productId": 60,
+        "productName": "FLB Charcoal Gray Pattern Comfort SlproductIdes",
+        "categoryId": 4,
+        "collectionId": 2,
+        "productSizes": ["7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17"],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": [
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_LionPattern_WSproductIdes_Black_TopMock_032825.png",
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_LionPattern_WSproductIdes_Black_AngledMock_032825.png",
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_LionPattern_WSproductIdes_Black_SproductIdeMock_032825.png"
         ],
-        "price": 55
+        "productPrice": 55
     },
     {
-        "id": 61,
-        "name": "FLB White & Blue Gel Comfort Slides",
-        "category": 4,
-        "collection": 2,
-        "sizes": ["7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17"],
-        "colors": [],
-        "rewards": 10,
-        "rating": 5,
-        "images": [
+        "productId": 61,
+        "productName": "FLB White & Blue Gel Comfort SlproductIdes",
+        "categoryId": 4,
+        "collectionId": 2,
+        "productSizes": ["7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17"],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/Valuetainment_FLBFull_WhiteIceGel_Mock_030325.png",
             "https://vtmerch.com/cdn/shop/files/Valuetainment_FLBFull_WhiteIceGel_AngledMock_030325.png",
-            "https://vtmerch.com/cdn/shop/files/Valuetainment_FLBFull_WhiteIceGel_SideMock_030325.png"
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_FLBFull_WhiteIceGel_SproductIdeMock_030325.png"
         ],
-        "price": 60
+        "productPrice": 60
     },
     {
-        "id": 62,
-        "name": "FLB Lion Legacy Red & Gold Comfort Slides",
-        "category": 4,
-        "collection": 2,
-        "sizes": ["7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17"],
-        "colors": [],
-        "rewards": 10,
-        "rating": 5,
-        "images": [
-            "https://vtmerch.com/cdn/shop/files/Valuetainment_FLBGold_WSides_Red_TopMock_032825.png",
-            "https://vtmerch.com/cdn/shop/files/Valuetainment_FLBGold_WSides_Red_AngledMock_032825.png",
-            "https://vtmerch.com/cdn/shop/files/Valuetainment_FLBGold_WSides_Red_SideMock_032825.png"
+        "productId": 62,
+        "productName": "FLB Lion Legacy Red & Gold Comfort SlproductIdes",
+        "categoryId": 4,
+        "collectionId": 2,
+        "productSizes": ["7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17"],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": [
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_FLBGold_WSproductIdes_Red_TopMock_032825.png",
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_FLBGold_WSproductIdes_Red_AngledMock_032825.png",
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_FLBGold_WSproductIdes_Red_SproductIdeMock_032825.png"
         ],
-        "price": 48
+        "productPrice": 48
     },
     {
-        "id": 63,
-        "name": "VT FLB Yeti Rambler (30oz)",
-        "category": 4,
-        "collection": 3,
-        "sizes": [],
-        "colors": ["green", "blue"],
-        "rewards": 10,
-        "rating": 5,
-        "images": [
+        "productId": 63,
+        "productName": "VT FLB Yeti Rambler (30oz)",
+        "categoryId": 4,
+        "collectionId": 3,
+        "productSizes": [],
+        "productColors": ["green", "blue"],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Yeti-Phase2-Teal.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Yeti-Phase2-Teal-Back.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Yeti-Merch1.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Yeti-Merch1-2.jpg"
         ],
-        "price": 64.99
+        "productPrice": 64.99
     },
     {
-        "id": 64,
-        "name": "Lion Shield Stainless Steel Water Bottle (25oz)",
-        "category": 4,
-        "collection": 3,
-        "sizes": [],
-        "colors": ["black", "gold"],
-        "rewards": 10,
-        "rating": 5,
-        "images": [
+        "productId": 64,
+        "productName": "Lion Shield Stainless Steel Water Bottle (25oz)",
+        "categoryId": 4,
+        "collectionId": 3,
+        "productSizes": [],
+        "productColors": ["black", "gold"],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-Matte-Black-Bottle.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-Gold-Water-Bottle.jpg"
         ],
-        "price": 24.99
+        "productPrice": 24.99
     },
     {
-        "id": 65,
-        "name": "VT FLB Yeti Rambler Straw Mug (42oz)",
-        "category": 4,
-        "collection": 3,
-        "sizes": [],
-        "colors": ["pink", "white"],
-        "rewards": 10,
-        "rating": 5,
-        "images": [
+        "productId": 65,
+        "productName": "VT FLB Yeti Rambler Straw Mug (42oz)",
+        "categoryId": 4,
+        "collectionId": 3,
+        "productSizes": [],
+        "productColors": ["pink", "white"],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Yeti-Pink.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Yeti-Phase2_Back.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Yeti-Handle-White.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Yeti-Handle-White_Back.jpg"
         ],
-        "price": 74.99
+        "productPrice": 74.99
     },
     {
-        "id": 66,
-        "name": "FLB Black & Red Lion Shield Mug",
-        "category": 4,
-        "collection": 3,
-        "sizes": [],
-        "colors": [],
-        "rewards": 10,
-        "rating": 4.5,
-        "images": ["https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Red-Lion-Shield-Mug.jpg"],
-        "price": 9.99
+        "productId": 66,
+        "productName": "FLB Black & Red Lion Shield Mug",
+        "categoryId": 4,
+        "collectionId": 3,
+        "productSizes": [],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 4.5,
+        "productImages": ["https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Red-Lion-Shield-Mug.jpg"],
+        "productPrice": 9.99
     },
     {
-        "id": 67,
-        "name": "VT FLB Mom Mug",
-        "category": 4,
-        "collection": 3,
-        "sizes": [],
-        "colors": [],
-        "rewards": 10,
-        "rating": 5,
-        "images": ["https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_VT-Mom-Mug.jpg"],
-        "price": 9.99
+        "productId": 67,
+        "productName": "VT FLB Mom Mug",
+        "categoryId": 4,
+        "collectionId": 3,
+        "productSizes": [],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": ["https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_VT-Mom-Mug.jpg"],
+        "productPrice": 9.99
     },
     {
-        "id": 68,
-        "name": "FLB Mount Rushmore Sticker (4\" x 2.25\")",
-        "category": 4,
-        "collection": 4,
-        "sizes": [],
-        "colors": [],
-        "rewards": 10,
-        "rating": 4.5,
-        "images": [
-            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_PresidentsDay_Magnet_MtRushmoreTrump_4INby2-25IN.png"
+        "productId": 68,
+        "productName": "FLB Mount Rushmore Sticker (4\" x 2.25\")",
+        "categoryId": 4,
+        "collectionId": 4,
+        "productSizes": [],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 4.5,
+        "productImages": [
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_PresproductIdentsDay_Magnet_MtRushmoreTrump_4INby2-25IN.png"
         ],
-        "price": 4.99
+        "productPrice": 4.99
     },
     {
-        "id": 69,
-        "name": "FLB Bright Flag Sticker (8\" x 3\")",
-        "category": 4,
-        "collection": 4,
-        "sizes": [],
-        "colors": [],
-        "rewards": 10,
-        "rating": 4.5,
-        "images": ["https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_PresidentsDay_Magnet_FLB-Lion-Flag_8INby3IN.png"],
-        "price": 4.99
+        "productId": 69,
+        "productName": "FLB Bright Flag Sticker (8\" x 3\")",
+        "categoryId": 4,
+        "collectionId": 4,
+        "productSizes": [],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 4.5,
+        "productImages": [
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_PresproductIdentsDay_Magnet_FLB-Lion-Flag_8INby3IN.png"
+        ],
+        "productPrice": 4.99
     },
     {
-        "id": 70,
-        "name": "VT Angry Patriot Sticker (2\" x 6\")",
-        "category": 4,
-        "collection": 4,
-        "sizes": [],
-        "colors": [],
-        "rewards": 10,
-        "rating": 4.5,
-        "images": ["https://vtmerch.com/cdn/shop/files/AngryPatriot.png"],
-        "price": 1.99
+        "productId": 70,
+        "productName": "VT Angry Patriot Sticker (2\" x 6\")",
+        "categoryId": 4,
+        "collectionId": 4,
+        "productSizes": [],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 4.5,
+        "productImages": ["https://vtmerch.com/cdn/shop/files/AngryPatriot.png"],
+        "productPrice": 1.99
     },
     {
-        "id": 71,
-        "name": "Future Looks Bright Sticker (3\" x 3\")",
-        "category": 4,
-        "collection": 4,
-        "sizes": [],
-        "colors": [],
-        "rewards": 10,
-        "rating": 5,
-        "images": ["https://vtmerch.com/cdn/shop/files/FLB-Sticker.png"],
-        "price": 2
+        "productId": 71,
+        "productName": "Future Looks Bright Sticker (3\" x 3\")",
+        "categoryId": 4,
+        "collectionId": 4,
+        "productSizes": [],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": ["https://vtmerch.com/cdn/shop/files/FLB-Sticker.png"],
+        "productPrice": 2
     },
     {
-        "id": 71,
-        "name": "Business Is War Sticker (5\" x 2.25\")",
-        "category": 4,
-        "collection": 4,
-        "sizes": [],
-        "colors": [],
-        "rewards": 10,
-        "rating": 5,
-        "images": ["https://vtmerch.com/cdn/shop/files/Business-Is-War.png"],
-        "price": 2
+        "productId": 71,
+        "productName": "Business Is War Sticker (5\" x 2.25\")",
+        "categoryId": 4,
+        "collectionId": 4,
+        "productSizes": [],
+        "productColors": [],
+        "productRewardPoints": 10,
+        "productRating": 5,
+        "productImages": ["https://vtmerch.com/cdn/shop/files/Business-Is-War.png"],
+        "productPrice": 2
     }
 ]
