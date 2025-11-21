@@ -140,7 +140,7 @@
     },
     {
         "productId": 9,
-        "productName": "FLB Fully EmbroproductIdered Navy & Silver Performance Sweatshirt",
+        "productName": "FLB Fully Embroidered Navy & Silver Performance Sweatshirt",
         "categoryId": 1,
         "collectionId": 2,
         "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
@@ -172,7 +172,7 @@
     },
     {
         "productId": 11,
-        "productName": "VT Lion EmbroproductIdered Royal Blue Lightweight Wool Blazer",
+        "productName": "VT Lion Embroidered Royal Blue Lightweight Wool Blazer",
         "categoryId": 1,
         "collectionId": 3,
         "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
@@ -208,7 +208,7 @@
     },
     {
         "productId": 14,
-        "productName": "VT SolproductId White Long-Sleeve Button-Down Shirt (Classic Fit)",
+        "productName": "VT Solid White Long-Sleeve Button-Down Shirt (Classic Fit)",
         "categoryId": 1,
         "collectionId": 3,
         "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
@@ -291,13 +291,13 @@
         "productImages": [
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shorts1.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shorts-lining2.jpg",
-            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shorts1-sproductIde.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shorts1-side.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shorts2.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shorts-Lining.jpg",
-            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shorts2-sproductIde.jpg",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shorts2-side.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shorts3.jpg",
             "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shorts-lining3.jpg",
-            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shorts3-sproductIde.jpg"
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_Athleisure-Shorts3-side.jpg"
         ],
         "productPrice": 44.99
     },
@@ -521,7 +521,7 @@
     },
     {
         "productId": 32,
-        "productName": "Lion Shield Charcoal Gray Pattern Performance MproductIdi Tank",
+        "productName": "Lion Shield Charcoal Gray Pattern Performance Midi Tank",
         "categoryId": 2,
         "collectionId": 3,
         "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
@@ -755,8 +755,8 @@
         "productRewardPoints": 25,
         "productRating": 5,
         "productImages": [
-            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_PresproductIdentsDay_Hoodie_FLBShield_Black.png",
-            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_PresproductIdentsDay_Hoodie_FLBShield_Black_Back.png"
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_PresidentsDay_Hoodie_FLBShield_Black.png",
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_PresidentsDay_Hoodie_FLBShield_Black_Back.png"
         ],
         "productPrice": 54.99
     },
@@ -803,7 +803,7 @@
     },
     {
         "productId": 49,
-        "productName": "FLB FlorproductIda State Black Hoodie",
+        "productName": "FLB Florida State Black Hoodie",
         "categoryId": 3,
         "collectionId": 2,
         "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
@@ -817,7 +817,7 @@
         "productId": 50,
         "productName": "USA Retro FLB White Snapback Hat",
         "categoryId": 3,
-        "collectionId": 2,
+        "collectionId": 3,
         "productSizes": [],
         "productColors": [],
         "productRewardPoints": 10,
@@ -834,7 +834,7 @@
         "productId": 51,
         "productName": "VT FLB White Performance Snapback Hat",
         "categoryId": 3,
-        "collectionId": 2,
+        "collectionId": 3,
         "productSizes": [],
         "productColors": [],
         "productRewardPoints": 10,
@@ -851,7 +851,7 @@
         "productId": 52,
         "productName": "FLB USA Flag Navy Snapback Hat",
         "categoryId": 3,
-        "collectionId": 2,
+        "collectionId": 3,
         "productSizes": [],
         "productColors": [],
         "productRewardPoints": 10,
@@ -868,7 +868,7 @@
         "productId": 53,
         "productName": "USA Retro FLB Camouflage Snapback Hat",
         "categoryId": 3,
-        "collectionId": 2,
+        "collectionId": 3,
         "productSizes": [],
         "productColors": [],
         "productRewardPoints": 10,
@@ -885,7 +885,7 @@
         "productId": 54,
         "productName": "VT FLB Gray Digital Camouflage Snapback Hat",
         "categoryId": 3,
-        "collectionId": 2,
+        "collectionId": 3,
         "productSizes": [],
         "productColors": [],
         "productRewardPoints": 10,
@@ -925,7 +925,7 @@
     },
     {
         "productId": 56,
-        "productName": "FLB Leather RFproductId Credit Card Holder",
+        "productName": "FLB Leather RFid Credit Card Holder",
         "categoryId": 4,
         "collectionId": 1,
         "productSizes": [],
@@ -965,7 +965,7 @@
     },
     {
         "productId": 58,
-        "productName": "VT Black Leather RFproductId Credit Card Holder",
+        "productName": "VT Black Leather RFid Credit Card Holder",
         "categoryId": 4,
         "collectionId": 1,
         "productSizes": [],
@@ -977,7 +977,7 @@
     },
     {
         "productId": 59,
-        "productName": "VT Lion Crest Primary Motive SlproductIdes",
+        "productName": "VT Lion Crest Primary Motive Slides",
         "categoryId": 4,
         "collectionId": 2,
         "productSizes": [],
@@ -986,13 +986,13 @@
         "productRating": 3,
         "productImages": [
             "https://vtmerch.com/cdn/shop/files/Valuetainment_LionCrest_BlackMotive_050225_TopMock_020a81c5-ad82-4ed6-aae8-3122f1d762ac.png",
-            "https://vtmerch.com/cdn/shop/files/Valuetainment_LionCrest_BlackMotive_050225_SproductIdeMock_4d4d2764-dad3-474a-a0aa-eeee2471a779.png"
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_LionCrest_BlackMotive_050225_SideMock_4d4d2764-dad3-474a-a0aa-eeee2471a779.png"
         ],
         "productPrice": 60
     },
     {
         "productId": 59,
-        "productName": "VT Patriotic Gray Camouflage Comfort SlproductIdes",
+        "productName": "VT Patriotic Gray Camouflage Comfort Slides",
         "categoryId": 4,
         "collectionId": 2,
         "productSizes": ["7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17"],
@@ -1002,13 +1002,13 @@
         "productImages": [
             "https://vtmerch.com/cdn/shop/files/Valuetainment_Flag_UrbanCamo_Grey_TopMock_030325.png",
             "https://vtmerch.com/cdn/shop/files/Valuetainment_Flag_UrbanCamo_Grey_AngledMock_030325.png",
-            "https://vtmerch.com/cdn/shop/files/Valuetainment_Flag_UrbanCamo_Grey_SproductIdeMock_030325.png"
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_Flag_UrbanCamo_Grey_SideMock_030325.png"
         ],
         "productPrice": 55
     },
     {
         "productId": 60,
-        "productName": "FLB Charcoal Gray Pattern Comfort SlproductIdes",
+        "productName": "FLB Charcoal Gray Pattern Comfort Slides",
         "categoryId": 4,
         "collectionId": 2,
         "productSizes": ["7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17"],
@@ -1016,15 +1016,15 @@
         "productRewardPoints": 10,
         "productRating": 5,
         "productImages": [
-            "https://vtmerch.com/cdn/shop/files/Valuetainment_LionPattern_WSproductIdes_Black_TopMock_032825.png",
-            "https://vtmerch.com/cdn/shop/files/Valuetainment_LionPattern_WSproductIdes_Black_AngledMock_032825.png",
-            "https://vtmerch.com/cdn/shop/files/Valuetainment_LionPattern_WSproductIdes_Black_SproductIdeMock_032825.png"
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_LionPattern_WSides_Black_TopMock_032825.png",
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_LionPattern_WSides_Black_AngledMock_032825.png",
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_LionPattern_WSides_Black_SideMock_032825.png"
         ],
         "productPrice": 55
     },
     {
         "productId": 61,
-        "productName": "FLB White & Blue Gel Comfort SlproductIdes",
+        "productName": "FLB White & Blue Gel Comfort Slides",
         "categoryId": 4,
         "collectionId": 2,
         "productSizes": ["7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17"],
@@ -1034,13 +1034,13 @@
         "productImages": [
             "https://vtmerch.com/cdn/shop/files/Valuetainment_FLBFull_WhiteIceGel_Mock_030325.png",
             "https://vtmerch.com/cdn/shop/files/Valuetainment_FLBFull_WhiteIceGel_AngledMock_030325.png",
-            "https://vtmerch.com/cdn/shop/files/Valuetainment_FLBFull_WhiteIceGel_SproductIdeMock_030325.png"
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_FLBFull_WhiteIceGel_SideMock_030325.png"
         ],
         "productPrice": 60
     },
     {
         "productId": 62,
-        "productName": "FLB Lion Legacy Red & Gold Comfort SlproductIdes",
+        "productName": "FLB Lion Legacy Red & Gold Comfort Slides",
         "categoryId": 4,
         "collectionId": 2,
         "productSizes": ["7", "8", "9", "10", "11", "12", "13", "14", "15", "16", "17"],
@@ -1048,9 +1048,9 @@
         "productRewardPoints": 10,
         "productRating": 5,
         "productImages": [
-            "https://vtmerch.com/cdn/shop/files/Valuetainment_FLBGold_WSproductIdes_Red_TopMock_032825.png",
-            "https://vtmerch.com/cdn/shop/files/Valuetainment_FLBGold_WSproductIdes_Red_AngledMock_032825.png",
-            "https://vtmerch.com/cdn/shop/files/Valuetainment_FLBGold_WSproductIdes_Red_SproductIdeMock_032825.png"
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_FLBGold_WSides_Red_TopMock_032825.png",
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_FLBGold_WSides_Red_AngledMock_032825.png",
+            "https://vtmerch.com/cdn/shop/files/Valuetainment_FLBGold_WSides_Red_SideMock_032825.png"
         ],
         "productPrice": 48
     },
@@ -1137,7 +1137,7 @@
         "productRewardPoints": 10,
         "productRating": 4.5,
         "productImages": [
-            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_PresproductIdentsDay_Magnet_MtRushmoreTrump_4INby2-25IN.png"
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_PresidentsDay_Magnet_MtRushmoreTrump_4INby2-25IN.png"
         ],
         "productPrice": 4.99
     },
@@ -1151,7 +1151,7 @@
         "productRewardPoints": 10,
         "productRating": 4.5,
         "productImages": [
-            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_PresproductIdentsDay_Magnet_FLB-Lion-Flag_8INby3IN.png"
+            "https://vtmerch.com/cdn/shop/files/VT-MERCH_Web_PresidentsDay_Magnet_FLB-Lion-Flag_8INby3IN.png"
         ],
         "productPrice": 4.99
     },
