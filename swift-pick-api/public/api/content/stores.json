@@ -2,35 +2,35 @@
     {
         "storeId": 1,
         "storeCity": "Los Angeles",
-        "state": "California",
+        "storeState": "California",
         "storeLat": 0.0,
         "storeLng": 0.0
     },
     {
         "storeId": 2,
         "storeCity": "Dallas",
-        "state": "Texas",
+        "storeState": "Texas",
         "storeLat": 0.0,
         "storeLng": 0.0
     },
     {
         "storeId": 3,
         "storeCity": "Miami",
-        "state": "Florida",
+        "storeState": "Florida",
         "storeLat": 0.0,
         "storeLng": 0.0
     },
     {
         "storeId": 4,
         "storeCity": "Seattle",
-        "state": "Washington",
+        "storeState": "Washington",
         "storeLat": 0.0,
         "storeLng": 0.0
     },
     {
         "storeId": 5,
         "storeCity": "Houston",
-        "state": "Texas",
+        "storeState": "Texas",
         "storeLat": 0.0,
         "storeLng": 0.0
     }
