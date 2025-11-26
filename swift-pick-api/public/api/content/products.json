@@ -20,7 +20,7 @@
         "categoryId": 1,
         "collectionId": 1,
         "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "productColors": ["black", "white", "gray", "red"],
+        "productColors": ["0|0|0", "255|255|255", "128|128|128", "168|118|118"],
         "productRewardPoints": 50,
         "productRating": 5,
         "productImages": [
@@ -72,7 +72,7 @@
         "categoryId": 1,
         "collectionId": 1,
         "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "productColors": ["black", "blue"],
+        "productColors": ["0|0|0", "66|105|186"],
         "productRewardPoints": 50,
         "productRating": 4,
         "productImages": [
@@ -123,7 +123,7 @@
         "categoryId": 1,
         "collectionId": 2,
         "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL", "4XL", "5XL"],
-        "productColors": ["white", "red"],
+        "productColors": ["255|255|255", "246|31|31"],
         "productRewardPoints": 25,
         "productRating": 5,
         "productImages": [
@@ -144,7 +144,7 @@
         "categoryId": 1,
         "collectionId": 2,
         "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "productColors": ["navy"],
+        "productColors": ["30|46|113"],
         "productRewardPoints": 25,
         "productRating": 5,
         "productImages": [
@@ -159,7 +159,7 @@
         "categoryId": 1,
         "collectionId": 2,
         "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "productColors": ["black", "gray"],
+        "productColors": ["0|0|0", "128|128|128"],
         "productRewardPoints": 25,
         "productRating": 5,
         "productImages": [
@@ -230,7 +230,7 @@
         "categoryId": 1,
         "collectionId": 3,
         "productSizes": ["7", "7.5", "8", "8.5", "9", "9.5", "10", "10.5", "11", "11.5", "12", "13"],
-        "productColors": ["brown", "black", "white", "navy"],
+        "productColors": ["154|86|48", "0|0|0", "255|255|255", "30|46|113"],
         "productRewardPoints": 100,
         "productRating": 4,
         "productImages": [
@@ -262,7 +262,7 @@
         "categoryId": 1,
         "collectionId": 4,
         "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "productColors": ["gray", "green", "navy", "white", "black"],
+        "productColors": ["128|128|128", "116|124|113", "30|46|113", "255|255|255", "0|0|0"],
         "productRewardPoints": 10,
         "productRating": 5,
         "productImages": [
@@ -285,7 +285,7 @@
         "categoryId": 1,
         "collectionId": 4,
         "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "productColors": ["gray", "green", "navy"],
+        "productColors": ["0|0|0", "116|124|113", "30|46|113"],
         "productRewardPoints": 10,
         "productRating": 5,
         "productImages": [
@@ -323,7 +323,7 @@
         "categoryId": 1,
         "collectionId": 4,
         "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "productColors": ["white", "red"],
+        "productColors": ["255|255|255", "246|31|31"],
         "productRewardPoints": 10,
         "productRating": 5,
         "productImages": [
@@ -343,7 +343,7 @@
         "categoryId": 2,
         "collectionId": 1,
         "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "productColors": ["black", "pink", "cream", "brown", "blue"],
+        "productColors": ["0|0|0", "237|211|222", "246|242|242", "161|115|115", "66|105|186"],
         "productRewardPoints": 50,
         "productRating": 4,
         "productImages": [
@@ -411,7 +411,7 @@
         "categoryId": 2,
         "collectionId": 1,
         "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "productColors": ["pink", "white", "black"],
+        "productColors": ["237|211|222", "255|255|255", "0|0|0"],
         "productRewardPoints": 10,
         "productRating": 5,
         "productImages": [
@@ -430,7 +430,7 @@
         "categoryId": 2,
         "collectionId": 2,
         "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "productColors": ["pink", "gray"],
+        "productColors": ["237|211|222", "128|128|128"],
         "productRewardPoints": 25,
         "productRating": 3,
         "productImages": [
@@ -477,7 +477,7 @@
         "categoryId": 2,
         "collectionId": 2,
         "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "productColors": ["brown", "gray", "red"],
+        "productColors": ["107|41|41", "128|128|128", "246|31|31"],
         "productRewardPoints": 25,
         "productRating": 4,
         "productImages": [
@@ -573,7 +573,15 @@
         "categoryId": 2,
         "collectionId": 4,
         "productSizes": [],
-        "productColors": ["white", "yellow", "cyan", "pink", "gray", "brown", "purple"],
+        "productColors": [
+            "255|255|255",
+            "236|249|43",
+            "35|215|223",
+            "255|192|203",
+            "128|128|128",
+            "129|37|37",
+            "177|193|225"
+        ],
         "productRewardPoints": 10,
         "productRating": 4,
         "productImages": [
@@ -600,7 +608,7 @@
         "categoryId": 2,
         "collectionId": 4,
         "productSizes": [],
-        "productColors": ["white", "red", "navy", "blue"],
+        "productColors": ["255|255|255", "246|31|31", "30|46|113", "196|227|238"],
         "productRewardPoints": 10,
         "productRating": 5,
         "productImages": [
@@ -732,7 +740,7 @@
         "categoryId": 3,
         "collectionId": 1,
         "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "productColors": ["white", "blue", "gray"],
+        "productColors": ["255|255|255", "30|46|113", "128|128|128"],
         "productRewardPoints": 10,
         "productRating": 4,
         "productImages": [
@@ -766,7 +774,7 @@
         "categoryId": 3,
         "collectionId": 2,
         "productSizes": ["XS", "S", "M", "L", "XL", "2XL", "3XL"],
-        "productColors": ["black", "gray"],
+        "productColors": ["0|0|0", "128|128|128"],
         "productRewardPoints": 25,
         "productRating": 4,
         "productImages": [
@@ -904,7 +912,7 @@
         "categoryId": 4,
         "collectionId": 1,
         "productSizes": [],
-        "productColors": ["black", "brown", "gray"],
+        "productColors": ["0|0|0", "154|86|48", "128|128|128"],
         "productRewardPoints": 10,
         "productRating": 4,
         "productImages": [
@@ -929,7 +937,7 @@
         "categoryId": 4,
         "collectionId": 1,
         "productSizes": [],
-        "productColors": ["blue", "brown", "black", "red"],
+        "productColors": ["73|113|194", "154|86|48", "0|0|0", "246|31|31"],
         "productRewardPoints": 10,
         "productRating": 3,
         "productImages": [
@@ -950,7 +958,7 @@
         "categoryId": 4,
         "collectionId": 1,
         "productSizes": [],
-        "productColors": ["brown", "black"],
+        "productColors": ["154|86|48", "0|0|0"],
         "productRewardPoints": 10,
         "productRating": 4,
         "productImages": [
@@ -1060,7 +1068,7 @@
         "categoryId": 4,
         "collectionId": 3,
         "productSizes": [],
-        "productColors": ["green", "blue"],
+        "productColors": ["133|222|190", "165|208|233"],
         "productRewardPoints": 10,
         "productRating": 5,
         "productImages": [
@@ -1077,7 +1085,7 @@
         "categoryId": 4,
         "collectionId": 3,
         "productSizes": [],
-        "productColors": ["black", "gold"],
+        "productColors": ["0|0|0", "212|154|6"],
         "productRewardPoints": 10,
         "productRating": 5,
         "productImages": [
@@ -1092,7 +1100,7 @@
         "categoryId": 4,
         "collectionId": 3,
         "productSizes": [],
-        "productColors": ["pink", "white"],
+        "productColors": ["255|192|203", "255|255|255"],
         "productRewardPoints": 10,
         "productRating": 5,
         "productImages": [
