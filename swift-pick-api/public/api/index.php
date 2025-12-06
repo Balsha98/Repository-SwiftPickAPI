@@ -1,11 +1,12 @@
 <?php
 
-require_once __DIR__ . '../../source/autoload.php';
-
 // Imported classes.
+use Source\Handlers\Autoload\Autoloader;
 use Source\Handlers\Routing\Routes;
 // use Source\Helpers\Classes\Debugger;
 use Source\Helpers\Classes\Encoder;
+
+Autoloader::autoload();
 
 try {
     $allowedRoutes = [];
