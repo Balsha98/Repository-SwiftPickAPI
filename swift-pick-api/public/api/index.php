@@ -1,6 +1,6 @@
 <?php
 
-require_once '../../source/autoload.php';
+require_once __DIR__ . '../../source/autoload.php';
 
 // Imported classes.
 use Source\Handlers\Routing\Routes;
@@ -38,7 +38,7 @@ try {
         throw new Exception('Unidentifiable resource given...');
     }
 
-    $filePath = "/content/{$resourceName}.json";
+    $filePath = __DIR__ . "/content/{$resourceName}.json";
     $resourceData = Encoder::decodeFromJSON(file_get_contents($filePath));
 
     // Check for ID.
