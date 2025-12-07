@@ -1,0 +1,44 @@
+[
+    {
+        "episodeId": 1,
+        "guestName": "Home Team",
+        "thumbnail": "",
+        "link": "https://www.youtube.com/watch?v=UsAyO_xcQHc",
+        "unlocksAt": 0
+    },
+    {
+        "episodeId": 2,
+        "guestName": "Donald Trump",
+        "thumbnail": "",
+        "link": "https://www.youtube.com/watch?v=-dmwG54QsKc",
+        "unlocksAt": 50
+    },
+    {
+        "episodeId": 1,
+        "guestName": "Charlie Kirk",
+        "thumbnail": "",
+        "link": "https://www.youtube.com/watch?v=fQ9VOlaBBeo",
+        "unlocksAt": 100
+    },
+    {
+        "episodeId": 1,
+        "guestName": "Nick Fuentes",
+        "thumbnail": "",
+        "link": "https://www.youtube.com/watch?v=7TEnJ5pyFDg",
+        "unlocksAt": 200
+    },
+    {
+        "episodeId": 1,
+        "guestName": "Candace Owens",
+        "thumbnail": "",
+        "link": "https://www.youtube.com/watch?v=mrrNKmluafg",
+        "unlocksAt": 500
+    },
+    {
+        "episodeId": 1,
+        "guestName": "Andrew Tate",
+        "thumbnail": "",
+        "link": "https://www.youtube.com/watch?v=VewIa-wqNOI",
+        "unlocksAt": 1000
+    }
+]
