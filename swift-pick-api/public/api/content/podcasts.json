@@ -2,42 +2,42 @@
     {
         "episodeId": 1,
         "guestName": "Home Team",
-        "thumbnail": "",
+        "thumbnail": "https://swiftpickapi.vercel.app/assets/media/images/pbd-thumb-home.png",
         "link": "https://www.youtube.com/watch?v=UsAyO_xcQHc",
         "unlocksAt": 0
     },
     {
         "episodeId": 2,
         "guestName": "Donald Trump",
-        "thumbnail": "",
+        "thumbnail": "https://swiftpickapi.vercel.app/assets/media/images/pbd-thumb-trump.png",
         "link": "https://www.youtube.com/watch?v=-dmwG54QsKc",
         "unlocksAt": 50
     },
     {
         "episodeId": 1,
         "guestName": "Charlie Kirk",
-        "thumbnail": "",
+        "thumbnail": "https://swiftpickapi.vercel.app/assets/media/images/pbd-thumb-kirk.png",
         "link": "https://www.youtube.com/watch?v=fQ9VOlaBBeo",
         "unlocksAt": 100
     },
     {
         "episodeId": 1,
         "guestName": "Nick Fuentes",
-        "thumbnail": "",
+        "thumbnail": "https://swiftpickapi.vercel.app/assets/media/images/pbd-thumb-fuentes.png",
         "link": "https://www.youtube.com/watch?v=7TEnJ5pyFDg",
         "unlocksAt": 200
     },
     {
         "episodeId": 1,
         "guestName": "Candace Owens",
-        "thumbnail": "",
+        "thumbnail": "https://swiftpickapi.vercel.app/assets/media/images/pbd-thumb-owens.png",
         "link": "https://www.youtube.com/watch?v=mrrNKmluafg",
         "unlocksAt": 500
     },
     {
         "episodeId": 1,
         "guestName": "Andrew Tate",
-        "thumbnail": "",
+        "thumbnail": "https://swiftpickapi.vercel.app/assets/media/images/pbd-thumb-tate.png",
         "link": "https://www.youtube.com/watch?v=VewIa-wqNOI",
         "unlocksAt": 1000
     }
