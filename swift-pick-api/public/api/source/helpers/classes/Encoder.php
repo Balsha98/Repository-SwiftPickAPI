@@ -6,6 +6,7 @@ class Encoder
 {
     public static function encodeToJSON(string $key, mixed $data)
     {
+        // return json_encode([$key => $data]);
         return json_encode($data);
     }
 
